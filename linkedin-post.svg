@@ -1,111 +1,83 @@
-<svg fill="none" viewBox="0 0 550 450" width="550" height="450" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        /* 1. EL "RESET" MÁGICO (Copiado de tu ejemplo) */
-        *, *::before, *::after {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-        }
+<svg fill="none" viewBox="0 0 600 400" width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    /* CONFIGURACIÓN DE LA ANIMACIÓN
+       Total duración del ciclo: 12 segundos (4 segundos por imagen)
+       Tenemos 3 imágenes.
+    */
 
-        /* 2. Estilos de la tarjeta */
-        .card {
-          background-color: #ffffff;
-          border: 1px solid #e0e0e0;
-          border-radius: 8px;
-          overflow: hidden;
-          width: 548px; /* Un pelín menos que el SVG para que no se corte el borde */
-          margin: 1px;
-          display: flex;
-          flex-direction: column;
-        }
-        
-        /* Header */
-        .header {
-          padding: 12px 16px 8px 16px;
-          display: flex;
-          align-items: center;
-        }
+    /* Animación para la IMAGEN 1: Visible de 0% a 33% del tiempo */
+    @keyframes cycle1 {
+      0%   { opacity: 1; z-index: 10; }
+      30%  { opacity: 1; } /* Empieza a desvanecerse un poco antes del cambio */
+      36%  { opacity: 0; z-index: 0; }
+      100% { opacity: 0; z-index: 0; }
+    }
 
-        .avatar {
-          width: 48px;
-          height: 48px;
-          border-radius: 50%;
-          margin-right: 12px;
-          /* Color de fondo por si la imagen falla */
-          background-color: #0077b5; 
-        }
-        
-        .user-text { display: flex; flex-direction: column; }
-        .name { font-weight: 600; font-size: 14px; color: #191919; }
-        .sub { font-size: 12px; color: #666; margin-top: 2px; }
+    /* Animación para la IMAGEN 2: Visible de 33% a 66% del tiempo */
+    @keyframes cycle2 {
+      0%   { opacity: 0; z-index: 0; }
+      30%  { opacity: 0; z-index: 0; }
+      36%  { opacity: 1; z-index: 10; } /* Aparece */
+      63%  { opacity: 1; }
+      69%  { opacity: 0; z-index: 0; } /* Desaparece */
+      100% { opacity: 0; z-index: 0; }
+    }
 
-        /* Texto del post */
-        .content {
-          padding: 0 16px 12px 16px;
-          font-size: 14px;
-          color: #191919;
-          line-height: 1.5;
-        }
+    /* Animación para la IMAGEN 3: Visible de 66% a 100% del tiempo */
+    @keyframes cycle3 {
+      0%   { opacity: 0; z-index: 0; }
+      63%  { opacity: 0; z-index: 0; }
+      69%  { opacity: 1; z-index: 10; } /* Aparece */
+      96%  { opacity: 1; }
+      100% { opacity: 1; z-index: 10; } /* Termina visible para enlazar con la 1 */
+    }
+    
+    /* Clase base para todas las imágenes de la galería */
+    .gallery-img {
+        /* Todas deben estar en la misma posición absoluta */
+        position: absolute; 
+        top: 0; left: 0;
+        /* Duración total de 12s, bucle infinito */
+        animation-duration: 12s;
+        animation-iteration-count: infinite;
+        animation-timing-function: ease-in-out;
+        /* Empezamos con opacidad 0 para que no parpadeen al cargar */
+        opacity: 0;
+    }
 
-        /* Contenedor de la imagen */
-        .image-container {
-          width: 100%;
-          height: 280px;
-          background-color: #f3f2ef;
-          position: relative;
-        }
+    /* Asignamos las animaciones específicas */
+    .img-1 { animation-name: cycle1; opacity: 1; } /* La 1 empieza visible */
+    .img-2 { animation-name: cycle2; }
+    .img-3 { animation-name: cycle3; }
 
-        /* 3. TRUCO PARA LA IMAGEN: display: block evita el margen inferior fantasma */
-        img.post-img {
-          width: 100%;
-          height: 100%;
-          object-fit: cover;
-          display: block; 
-          border: none;
-        }
-        
-        .footer {
-            padding: 10px 16px;
-            background: #f9fafb;
-            border-top: 1px solid #e0e0e0;
-            font-size: 12px;
-            color: #666;
-            display: flex;
-            align-items: center;
-            gap: 5px;
-        }
-        
-        .linkedin-icon {
-            font-weight: 700;
-            color: #0077b5;
-            font-size: 14px;
-        }
+    /* Estilos decorativos para el contenedor */
+    .frame { fill: #ffffff; stroke: #e0e0e0; stroke-width: 2; rx: 12; }
+  </style>
 
-      </style>
+  <rect class="frame" x="1" y="1" width="598" height="398" />
+  
+  <defs>
+      <clipPath id="gallery-clip">
+          <rect x="20" y="20" width="560" height="360" rx="8" />
+      </clipPath>
+  </defs>
 
-      <div class="card">
-        <div class="header">
-          <div class="avatar" style="background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAxMmMyLjIxIDAgNC0xLjc5IDQtNHMtMS43OS00LTQtNC00IDEuNzktNCA0IDEuNzkgNCA0IDR6bTAgMmMtMi42NyAwLTggMS4zNC04IDR2MmgxNnYtMmMwLTIuNjYtNS4zMy00LTgtNHoiLz48L3N2Zz4='); background-size: cover;"></div>
-          <div class="user-text">
-            <span class="name">Tu Nombre</span>
-            <span class="sub">1 sem • 🌐</span>
-          </div>
-        </div>
+  <g clip-path="url(#gallery-clip)">
+    
+    <rect class="gallery-img img-1" x="20" y="20" width="560" height="360" fill="#FF5733">
+       <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="white" font-size="30" font-family="Arial">IMAGEN 1</text>
+    </rect>
 
-        <div class="content">
-          Aquí está el texto de tu publicación. Gracias al <strong>CSS Reset</strong>, todo se alinea perfectamente con los bordes y no aparecen huecos blancos extraños alrededor de la imagen. 🚀
-        </div>
+    <rect class="gallery-img img-2" x="20" y="20" width="560" height="360" fill="#28B463">
+       <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="white" font-size="30" font-family="Arial">IMAGEN 2</text>
+    </rect>
 
-        
-        
-        <div class="footer">
-            <span class="linkedin-icon">in</span>
-            <span>LinkedIn</span>
-        </div>
-      </div>
-    </div>
-  </foreignObject>
+    <rect class="gallery-img img-3" x="20" y="20" width="560" height="360" fill="#3498DB">
+       <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="white" font-size="30" font-family="Arial">IMAGEN 3</text>
+    </rect>
+
+  </g>
+
+  <text x="300" y="390" text-anchor="middle" font-family="Arial" font-size="12" fill="#999">Galería automática CSS (3 imágenes)</text>
+
 </svg>
