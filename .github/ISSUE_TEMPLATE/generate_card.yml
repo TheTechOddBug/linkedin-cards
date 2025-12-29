@@ -14,7 +14,7 @@ body:
     attributes:
       label: Name
       description: Your name as it appears on LinkedIn.
-      placeholder: Alex Cerezo
+      placeholder: "Alex Cerezo"
     validations:
       required: true
 
@@ -23,7 +23,7 @@ body:
     attributes:
       label: Bio / Headline
       description: Your headline under the name.
-      placeholder: Software Engineer | Cloud Enthusiast
+      placeholder: "Software Engineer | Cloud Enthusiast"
     validations:
       required: true
 
@@ -32,7 +32,7 @@ body:
     attributes:
       label: Profile Picture URL
       description: Direct link to your avatar (must be publicly accessible or a relative path).
-      placeholder: https://github.com/your-username.png
+      placeholder: "https://github.com/your-username.png"
     validations:
       required: true
 
@@ -41,7 +41,7 @@ body:
     attributes:
       label: Time posted
       description: Date/time text.
-      placeholder: 2d • Edited
+      placeholder: "2d • Edited"
     validations:
       required: true
 
@@ -74,7 +74,8 @@ body:
     attributes:
       label: Reaction Count
       description: Number of likes/interactions.
-      placeholder: 145
+      # AQUÍ ESTABA EL ERROR: Ahora lleva comillas
+      placeholder: "145"
       value: "0"
     validations:
       required: false
@@ -84,7 +85,7 @@ body:
     attributes:
       label: Comments Text
       description: Footer text info.
-      placeholder: 24 comments • 3 reposts
+      placeholder: "24 comments • 3 reposts"
       value: "0 comments"
     validations:
       required: false
