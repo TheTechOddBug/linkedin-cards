@@ -1,0 +1,73 @@
+name: Generate LinkedIn Card
+
+on:
+  issues:
+    types: [opened, labeled]
+
+jobs:
+  generate-card:
+    # Only run when issue has the 'post' label
+    if: contains(github.event.issue.labels.*.name, 'post')
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+      issues: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Install dependencies
+        run: npm install
+      
+      - name: Generate LinkedIn card
+        id: generate
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+        run: node scripts/generate-card.js
+      
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+      
+      - name: Commit generated cards
+        run: |
+          git add output/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Generate LinkedIn card for issue #${{ github.event.issue.number }}"
+            git push
+          fi
+      
+      - name: Comment on issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issueNumber = context.issue.number;
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+            
+            const comment = `✅ LinkedIn cards generated successfully!
+            
+            View your cards:
+            - [Light theme](https://github.com/${owner}/${repo}/blob/main/output/${issueNumber}/linkedin-post-light.svg)
+            - [Dark theme](https://github.com/${owner}/${repo}/blob/main/output/${issueNumber}/linkedin-post-dark.svg)
+            
+            You can use these cards in your README or documentation by referencing the raw GitHub URLs.`;
+            
+            await github.rest.issues.createComment({
+              owner,
+              repo,
+              issue_number: issueNumber,
+              body: comment
+            });
