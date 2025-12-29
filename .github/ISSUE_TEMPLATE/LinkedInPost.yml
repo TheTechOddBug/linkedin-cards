@@ -1,0 +1,90 @@
+name: 📇 Generate LinkedIn Card
+description: Enter the data to automatically generate the SVGs for your post.
+title: "[NEW POST]: "
+labels: ["content", "automation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Card Generator
+        Fill in the fields below. A script will process this issue to generate the `.svg` files (Dark/Light and Mobile/Desktop).
+
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: Your name as it appears on LinkedIn.
+      placeholder: Alex Cerezo
+    validations:
+      required: true
+
+  - type: input
+    id: bio
+    attributes:
+      label: Bio / Headline
+      description: Your headline under the name.
+      placeholder: Software Engineer | Cloud Enthusiast
+    validations:
+      required: true
+
+  - type: input
+    id: profile_picture
+    attributes:
+      label: Profile Picture URL
+      description: Direct link to your avatar (must be publicly accessible or a relative path).
+      placeholder: https://github.com/your-username.png
+    validations:
+      required: true
+
+  - type: input
+    id: time
+    attributes:
+      label: Time posted
+      description: Date/time text.
+      placeholder: 2d • Edited
+    validations:
+      required: true
+
+  - type: textarea
+    id: text
+    attributes:
+      label: Post Content
+      description: The main text of the post. You can use line breaks.
+      placeholder: |
+        Hi network! Today I want to share...
+    validations:
+      required: true
+
+  - type: textarea
+    id: images
+    attributes:
+      label: Image URLs (Optional)
+      description: |
+        Place **one URL per line**.
+        - If left empty, the "Text Only" template will be used.
+        - If you provide 1, 2, or 3 images, the gallery template will be used.
+      placeholder: |
+        https://example.com/image1.jpg
+        https://example.com/image2.png
+    validations:
+      required: false
+
+  - type: input
+    id: reactions
+    attributes:
+      label: Reaction Count
+      description: Number of likes/interactions.
+      placeholder: 145
+      value: "0"
+    validations:
+      required: false
+
+  - type: input
+    id: comments
+    attributes:
+      label: Comments Text
+      description: Footer text info.
+      placeholder: 24 comments • 3 reposts
+      value: "0 comments"
+    validations:
+      required: false
