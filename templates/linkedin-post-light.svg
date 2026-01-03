@@ -116,9 +116,6 @@
         </div>
 
         <div class="gallery-container">
-            <div class="gallery-slide img-1" style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89J+hHgAHDgJi0rFRDgAAAABJRU5ErkJggg==);"></div>
-            <div class="gallery-slide img-2" style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z8FQDwAEnQGIVO32RQAAAABJRU5ErkJggg==);"></div>
-            <div class="gallery-slide img-3" style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mMU+89QDwAD3gGWA4sObwAAAABJRU5ErkJggg==)"></div>
         </div>
 
         <div class="footer-section">
