@@ -31,10 +31,12 @@ const translations = {
         'year': 'año',
         'years': 'años',
         'ago': 'Hace',
+        'comment': 'comentario',
         'comments': 'comentarios',
         invertOrder: true
     },
     en: {
+        'comment': 'comment',
         'comments': 'comments',
         invertOrder: false
     },
@@ -54,6 +56,7 @@ const translations = {
         'year': 'an',
         'years': 'ans',
         'ago': 'Il y a',
+        'comment': 'commentaire',
         'comments': 'commentaires',
         invertOrder: true
     },
@@ -73,6 +76,7 @@ const translations = {
         'year': 'Jahr',
         'years': 'Jahren',
         'ago': 'Vor',
+        'comment': 'Kommentar',
         'comments': 'Kommentare',
         invertOrder: true
     }
@@ -232,8 +236,10 @@ async function generateCard(post) {
     const language = process.env.LANGUAGE || 'en';
     const time = translateRelativeTime(timeRaw, language);
     const reactions = post.stats.total_reactions;
-    const commentsText = translations[language]?.comments || 'comments';
-    const comments = `${post.stats.comments} ${commentsText}`;
+    const commentCount = post.stats.comments;
+    const commentKey = commentCount === 1 ? 'comment' : 'comments';
+    const commentsText = translations[language]?.[commentKey] || (commentCount === 1 ? 'comment' : 'comments');
+    const comments = `${commentCount} ${commentsText}`;
     
     const imageBase64 = [];
     for (let i = 0; i < Math.min(images.length, 4); i++) {
