@@ -1,4 +1,4 @@
-# LinkedIn Cards Generator
+# GitHub Readme LinkedIn Card Generator
 
 Automatically generate beautiful LinkedIn post cards and display them in your GitHub profile README. The cards update daily with your latest posts.
 
