@@ -141,13 +141,15 @@ function updateReadme(generatedCardsData, maxCards) {
   </a>`;
     }).join('\n');
     
+    const fullHTML = `<p align="center">\n${cardHTML}\n</p>`;
+    
     const beginMarker = '<!-- BEGIN LINKEDIN -->';
     const endMarker = '<!-- END LINKEDIN -->';
     const beginIndex = readme.indexOf(beginMarker);
     const endIndex = readme.indexOf(endMarker);
     
     if (beginIndex !== -1 && endIndex !== -1) {
-        readme = readme.substring(0, beginIndex + beginMarker.length) + '\n' + cardHTML + '\n' + readme.substring(endIndex);
+        readme = readme.substring(0, beginIndex) + beginMarker + '\n' + fullHTML + '\n' + endMarker + readme.substring(endIndex + endMarker.length);
         fs.writeFileSync(readmePath, readme, 'utf8');
         console.log('README actualizado con las tarjetas');
     }
