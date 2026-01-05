@@ -14,73 +14,24 @@ const USER_REPO_PATH = process.cwd();
 
 dotenv.config();
 
-const translations = {
-    es: {
-        'second': 'segundo',
-        'seconds': 'segundos',
-        'minute': 'minuto',
-        'minutes': 'minutos',
-        'hour': 'hora',
-        'hours': 'horas',
-        'day': 'día',
-        'days': 'días',
-        'week': 'semana',
-        'weeks': 'semanas',
-        'month': 'mes',
-        'months': 'meses',
-        'year': 'año',
-        'years': 'años',
-        'ago': 'Hace',
-        'comment': 'comentario',
-        'comments': 'comentarios',
-        invertOrder: true
-    },
-    en: {
-        'comment': 'comment',
-        'comments': 'comments',
-        invertOrder: false
-    },
-    fr: {
-        'second': 'seconde',
-        'seconds': 'secondes',
-        'minute': 'minute',
-        'minutes': 'minutes',
-        'hour': 'heure',
-        'hours': 'heures',
-        'day': 'jour',
-        'days': 'jours',
-        'week': 'semaine',
-        'weeks': 'semaines',
-        'month': 'mois',
-        'months': 'mois',
-        'year': 'an',
-        'years': 'ans',
-        'ago': 'Il y a',
-        'comment': 'commentaire',
-        'comments': 'commentaires',
-        invertOrder: true
-    },
-    de: {
-        'second': 'Sekunde',
-        'seconds': 'Sekunden',
-        'minute': 'Minute',
-        'minutes': 'Minuten',
-        'hour': 'Stunde',
-        'hours': 'Stunden',
-        'day': 'Tag',
-        'days': 'Tagen',
-        'week': 'Woche',
-        'weeks': 'Wochen',
-        'month': 'Monat',
-        'months': 'Monaten',
-        'year': 'Jahr',
-        'years': 'Jahren',
-        'ago': 'Vor',
-        'comment': 'Kommentar',
-        'comments': 'Kommentare',
-        invertOrder: true
+// Cargar traducciones desde archivos JSON
+function loadTranslations() {
+    const langDir = path.join(ACTION_PATH, 'lang');
+    const translations = {};
+    
+    if (fs.existsSync(langDir)) {
+        const files = fs.readdirSync(langDir).filter(f => f.endsWith('.json'));
+        files.forEach(file => {
+            const lang = path.basename(file, '.json');
+            const content = fs.readFileSync(path.join(langDir, file), 'utf8');
+            translations[lang] = JSON.parse(content);
+        });
     }
-};
+    
+    return translations;
+}
+
+const translations = loadTranslations();
 
 function translateRelativeTime(englishTime, language = 'en') {
     if (language === 'en' || !translations[language]) {

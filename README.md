@@ -186,12 +186,10 @@ node scripts/auto-generate.js
 
 ## Adding New Languages
 
-Want to add support for your language? Edit [auto-generate.js](scripts/auto-generate.js) and add your translations:
+Want to add support for your language? Create a json into the lang folder and add your translations:
 
-```javascript
-const translations = {
-    // ... existing translations
-    pt: {  // Portuguese example
+```json
+      {  // Portuguese example
         'second': 'segundo',
         'seconds': 'segundos',
         'minute': 'minuto',
@@ -210,7 +208,6 @@ const translations = {
         'comments': 'comentários',
         invertOrder: true
     }
-};
 ```
 
 Set `invertOrder: true` if your language places "ago" at the beginning (like Spanish: "Hace 3 semanas").

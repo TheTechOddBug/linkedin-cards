@@ -1,0 +1,20 @@
+{
+  "second": "Sekunde",
+  "seconds": "Sekunden",
+  "minute": "Minute",
+  "minutes": "Minuten",
+  "hour": "Stunde",
+  "hours": "Stunden",
+  "day": "Tag",
+  "days": "Tagen",
+  "week": "Woche",
+  "weeks": "Wochen",
+  "month": "Monat",
+  "months": "Monaten",
+  "year": "Jahr",
+  "years": "Jahren",
+  "ago": "Vor",
+  "comment": "Kommentar",
+  "comments": "Kommentare",
+  "invertOrder": true
+}
