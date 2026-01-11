@@ -37,7 +37,11 @@ There are many ways to contribute:
    git clone https://github.com/YOUR-USERNAME/linkedin-cards.git
    cd linkedin-cards
    ```
-3. **Create a branch** for your changes:
+3. **Add the upstream repository**:
+   ```bash
+   git remote add upstream https://github.com/alexcerezo/linkedin-cards.git
+   ```
+4. **Create a branch** for your changes:
    ```bash
    git checkout -b feature/your-feature-name
    ```
@@ -49,8 +53,9 @@ There are many ways to contribute:
 - Node.js >= 18
 - npm (comes with Node.js)
 - Git
-- An Apify account with API token (required for fetching LinkedIn posts - free tier available at [apify.com](https://apify.com))
-  - **Note**: The Apify API token is needed to fetch real LinkedIn posts. Without it, you can still work on templates, translations, and other features using mock data.
+- An Apify account with API token (free tier available at [apify.com](https://apify.com))
+  - **Note**: The Apify API token is required to fetch real LinkedIn posts from the API
+  - **For development**: You can work on templates, translations, and other features without an API token by setting `USE_MOCK_DATA=true` in your `.env` file
 
 ### Installation
 
@@ -103,11 +108,11 @@ linkedin-cards/
 
 1. **Update your fork** with the latest changes from main:
    ```bash
-   git fetch origin
-   git merge origin/main
+   git fetch upstream
+   git merge upstream/main
    ```
    
-   *Advanced: You can also use `git rebase origin/main` if you're comfortable with rebasing.*
+   *Advanced: You can also use `git rebase upstream/main` if you're comfortable with rebasing.*
 
 2. **Make your changes** following the [coding guidelines](#coding-guidelines)
 
