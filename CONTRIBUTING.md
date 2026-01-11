@@ -65,6 +65,7 @@ There are many ways to contribute:
    LINKEDIN_USERNAME=your_linkedin_username
    MAX_CARDS_TO_GENERATE=4
    LANGUAGE=en
+   USE_MOCK_DATA=false  # Set to 'true' to use mock data instead of calling the API
    ```
 
 3. Run the generator to test:
@@ -157,6 +158,7 @@ We encourage adding support for new languages! Here's how:
      "year": "ano",
      "years": "anos",
      "ago": "Há",
+     "comment": "comentário",
      "comments": "comentários",
      "invertOrder": true
    }
