@@ -52,10 +52,12 @@
         .embedded-post {
           margin: 10px var(--card-padding) 0 var(--card-padding);
           padding: 12px;
-          background: #f3f3f3;
+          background: white;
           border: 1px solid #e0e0e0;
           border-radius: 8px;
           flex-shrink: 0;
+          height: 220px;
+          box-sizing: border-box;
         }
 
         .embedded-header {
@@ -78,9 +80,9 @@
           font-size: 13px;
           color: #191919;
           line-height: 18px;
-          max-height: calc(18px * 4);
+          max-height: calc(18px * 8);
           display: -webkit-box;
-          -webkit-line-clamp: 4;
+          -webkit-line-clamp: 8;
           -webkit-box-orient: vertical;
           overflow: hidden;
           text-overflow: ellipsis;
