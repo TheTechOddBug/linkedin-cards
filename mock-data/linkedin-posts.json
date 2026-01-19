@@ -1,18 +1,18 @@
 [
   {
     "urn": {
-      "activity_urn": "7415058736563806208",
-      "share_urn": "7415042276323696641",
+      "activity_urn": "7417548787247718400",
+      "share_urn": "7417265406857355264",
       "ugcPost_urn": null
     },
-    "full_urn": "urn:li:activity:7415042276982239232",
+    "full_urn": "urn:li:activity:7417475807884779520",
     "posted_at": {
-      "date": "2026-01-08 16:56:07",
-      "relative": "5 days ago • Visible to anyone on or off LinkedIn",
-      "timestamp": 1767887767926
+      "date": "2026-01-15 13:50:42",
+      "relative": "4 days ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1768481442272
     },
-    "text": "Hola a todos,\nTras haber realizado mi última estancia de prácticas en el extranjero el año pasado, para este verano busco mi próxima oportunidad profesional en España para seguir creciendo como desarrollador Backend.\n\nLo que puedo aportar:\n- Experiencia y foco técnico: Mi stack principal es .NET / C#, donde he desarrollado la mayor parte de mi trayectoria hasta ahora.\n- Versatilidad: Mentalidad abierta para aprender y trabajar con otros lenguajes o herramientas según las necesidades del equipo.\n- Habilidades blandas: Proactividad, enfoque en la resolución de problemas y experiencia previa trabajando en entornos internacionales.\n- Ubicación: Resido en Málaga, pero estoy disponible para oportunidades presenciales, híbridas o en remoto en toda España.\n\nSi en vuestra empresa buscáis perfiles en prácticas para el periodo de verano, o si conoces a alguien que esté contratando, agradecería mucho el contacto o que compartas esta publicación.\n\nGracias por el apoyo.\n\n#Backend #DotNet #Internship #Málaga #España #SoftwareDevelopment #Csharp",
-    "url": "https://www.linkedin.com/posts/javiertorralbocortes_backend-dotnet-internship-activity-7415042276982239232-Yz4j?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDsOLIBleMMU19Ynwm_l0TMZPXbPSsSCPU",
+    "text": "A falta de menos de una semana para mi charla sobre Data Science con F#, aprovecho para recordaros que aún podéis apuntaros en el link al final del post.\n\nEn la sesión exploraremos cómo el enfoque funcional de .NET aporta una seguridad y velocidad que a menudo faltan en los flujos tradicionales de Python. Analizaremos cómo construir pipelines de datos más limpios, evitando errores silenciosos gracias a su sistema de tipado fuerte. Además, veremos el impacto real de estas herramientas en el análisis de datos biológicos con iGEM UMA, demostrando que es posible crear modelos científicos mucho más robustos y fáciles de mantener. Si buscas optimizar el rendimiento de tu código y descubrir nuevas formas de trabajar con datos, nos vemos allí.\n\nhttps://lnkd.in/eWW5q7uS",
+    "url": "https://www.linkedin.com/posts/javiertorralbocortes_a-falta-de-menos-de-una-semana-para-mi-charla-activity-7417475807884779520-jsDx?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
     "post_type": "repost",
     "author": {
       "first_name": "Javier",
@@ -20,7 +20,100 @@
       "headline": "Computer Engineering Student | .NET, Cloud & Bioinformatics Enthusiast | iGEM UMA & IAESTE Leader",
       "username": "javiertorralbocortes",
       "profile_url": "https://www.linkedin.com/in/javiertorralbocortes?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADeMTQMBqB1k4XbWxSvWGFrzzNM3AW6mWd8",
-      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E35AQGtq1xe8xRqew/profile-framedphoto-shrink_800_800/B4EZtvVGLFKkAg-/0/1767099360461?e=1769004000&v=beta&t=urAkiW4QmR3i16Pdu3O3fBmEGOniRX8tl3W6bowADjs"
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E35AQGtq1xe8xRqew/profile-framedphoto-shrink_800_800/B4EZtvVGLFKkAg-/0/1767099360461?e=1769454000&v=beta&t=bpdfWMppAaLwoCoeBTFV7JycTEVxtlYJSKilIgiBHLY"
+    },
+    "stats": {
+      "total_reactions": 13,
+      "like": 12,
+      "support": 0,
+      "love": 1,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 2
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/v2/D4E22AQFVI6SQS0WLgA/feedshare-shrink_2048_1536/B4EZu9rlWUH8Aw-/0/1768413878239?e=1770249600&v=beta&t=2TPE69KRQCGexoPMP0Hz3YoaNFaq64YcHgcFCG0QJvw",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQFVI6SQS0WLgA/feedshare-shrink_2048_1536/B4EZu9rlWUH8Aw-/0/1768413878239?e=1770249600&v=beta&t=2TPE69KRQCGexoPMP0Hz3YoaNFaq64YcHgcFCG0QJvw",
+          "width": 960,
+          "height": 540
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7417204847634198529",
+      "share_urn": "7417204846904287233",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7417204847634198529",
+    "posted_at": {
+      "date": "2026-01-14 15:04:00",
+      "relative": "5 days ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1768399440678
+    },
+    "text": "Embracing a true Open Source philosophy is what keeps linkedin-cards alive and growing. 🚀\n\nI'm excited to announce that support for video posts is now live! This major update wouldn't have been possible without the amazing contribution from\nShihab Hasan. Huge thanks for your effort and for helping push this project forward. 🙌\n\nThe project is more active than ever, and I'd like to keep this momentum going. If you are looking to contribute, whether it's adding support for reposts or polishing the UI, I'd love to see your Pull Requests.\n\nCheck out the new feature and join the project here:\nhttps://lnkd.in/ek7q9sHg\n\n#OpenSource #GitHub #Community #DeveloperTools #LinkedInCards",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_github-alexcerezolinkedin-cards-automatically-activity-7417204847634198529-Os7p?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1770249600&v=beta&t=RBazk0dZC_VfK84eD1-SQIrEVT4bLnvTQM1uoHeY1Bc"
+    },
+    "stats": {
+      "total_reactions": 1,
+      "like": 1,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/sync/v2/D4E27AQE9SsdPY0xUQQ/articleshare-shrink_1280_800/B4EZu8zI5MKcAQ-/0/1768399081393?e=1769454000&v=beta&t=LEuKvvRBmJyGC0w1I8wgYrGjpSiB3MZjLTfGf9pmFFs"
+    },
+    "article": {
+      "url": "https://github.com/alexcerezo/linkedin-cards",
+      "title": "GitHub - alexcerezo/linkedin-cards: Automatically generate beautiful SVG cards from your latest LinkedIn posts and display them in your GitHub README. Supports light/dark themes, multiple languages, and daily updates via GitHub Actions.",
+      "subtitle": "github.com",
+      "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D4E27AQE9SsdPY0xUQQ/articleshare-shrink_1280_800/B4EZu8zI5MKcAQ-/0/1768399081393?e=1769454000&v=beta&t=LEuKvvRBmJyGC0w1I8wgYrGjpSiB3MZjLTfGf9pmFFs"
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7415058736563806208",
+      "share_urn": "7415042276323696641",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7415042276982239232",
+    "posted_at": {
+      "date": "2026-01-08 16:56:07",
+      "relative": "1 week ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1767887767926
+    },
+    "text": "Hola a todos,\nTras haber realizado mi última estancia de prácticas en el extranjero el año pasado, para este verano busco mi próxima oportunidad profesional en España para seguir creciendo como desarrollador Backend.\n\nLo que puedo aportar:\n- Experiencia y foco técnico: Mi stack principal es .NET / C#, donde he desarrollado la mayor parte de mi trayectoria hasta ahora.\n- Versatilidad: Mentalidad abierta para aprender y trabajar con otros lenguajes o herramientas según las necesidades del equipo.\n- Habilidades blandas: Proactividad, enfoque en la resolución de problemas y experiencia previa trabajando en entornos internacionales.\n- Ubicación: Resido en Málaga, pero estoy disponible para oportunidades presenciales, híbridas o en remoto en toda España.\n\nSi en vuestra empresa buscáis perfiles en prácticas para el periodo de verano, o si conoces a alguien que esté contratando, agradecería mucho el contacto o que compartas esta publicación.\n\nGracias por el apoyo.\n\n#Backend #DotNet #Internship #Málaga #España #SoftwareDevelopment #Csharp",
+    "url": "https://www.linkedin.com/posts/javiertorralbocortes_backend-dotnet-internship-activity-7415042276982239232-Yz4j?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
+    "post_type": "repost",
+    "author": {
+      "first_name": "Javier",
+      "last_name": "Torralbo Cortés",
+      "headline": "Computer Engineering Student | .NET, Cloud & Bioinformatics Enthusiast | iGEM UMA & IAESTE Leader",
+      "username": "javiertorralbocortes",
+      "profile_url": "https://www.linkedin.com/in/javiertorralbocortes?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADeMTQMBqB1k4XbWxSvWGFrzzNM3AW6mWd8",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E35AQGtq1xe8xRqew/profile-framedphoto-shrink_800_800/B4EZtvVGLFKkAg-/0/1767099360461?e=1769454000&v=beta&t=bpdfWMppAaLwoCoeBTFV7JycTEVxtlYJSKilIgiBHLY"
     },
     "stats": {
       "total_reactions": 20,
@@ -44,11 +137,11 @@
     "full_urn": "urn:li:activity:7413917607571017728",
     "posted_at": {
       "date": "2026-01-05 13:21:41",
-      "relative": "1 week ago • Visible to anyone on or off LinkedIn",
+      "relative": "2 weeks ago • Visible to anyone on or off LinkedIn",
       "timestamp": 1767615701573
     },
     "text": "¿Te perdiste mi post de ayer? No te preocupes, LinkedIn Cards ya ha hecho el trabajo por mí. 🚀\n\nComo prometí ayer, mi actividad de LinkedIn ya es visible directamente en mi perfil de GitHub. Gracias a LinkedIn Cards, mi README ha pasado de ser un texto estático a un escaparate dinámico que se actualiza solo cada día.\n\n¿Qué es exactamente LinkedIn Cards? Es una herramienta Open Source diseñada para desarrolladores que quieren potenciar su marca personal. Permite conectar tus mejores publicaciones de LinkedIn a tu GitHub mediante tarjetas visuales automáticas, gestionadas íntegramente por GitHub Actions.\n\nPuedes configurar tus LinkedIn Cards aquí: 🔗\nhttps://lnkd.in/ek7q9sHg\n\nAsí que si te perdiste la oportunidad de aparecer en mi perfil de GitHub ayer. ¡Aún estás a tiempo! ⏳ Como las tarjetas se actualizan automáticamente cada día, si reaccionas o comentas en esta publicación, tu interacción aparecerá en mi README mañana mismo.",
-    "url": "https://www.linkedin.com/posts/alexcerezocontreras_te-perdiste-mi-post-de-ayer-no-te-preocupes-activity-7413917607571017728-UTf6?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDsOLIBleMMU19Ynwm_l0TMZPXbPSsSCPU",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_te-perdiste-mi-post-de-ayer-no-te-preocupes-activity-7413917607571017728-UTf6?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
     "post_type": "regular",
     "author": {
       "first_name": "Alejandro",
@@ -91,11 +184,11 @@
     "full_urn": "urn:li:activity:7413539301910536193",
     "posted_at": {
       "date": "2026-01-04 12:18:26",
-      "relative": "1 week ago • Edited • Visible to anyone on or off LinkedIn",
+      "relative": "2 weeks ago • Edited • Visible to anyone on or off LinkedIn",
       "timestamp": 1767525506475
     },
     "text": "¿Sientes que a tu perfil de GitHub le falta algo para destacar entre la multitud? 🤔\n\nTu README es tu carta de presentación, y el texto plano ya no es suficiente. Por eso he lanzado LinkedIn Cards, una herramienta Open Source que transforma tu perfil estático en un escaparate dinámico.\n\nConecta tus mejores publicaciones de LinkedIn directamente a tu GitHub generando tarjetas visuales automáticas. Muestra tu actividad, tus proyectos y tu voz profesional en un vistazo.\n\nPor qué integrarlo en tu repo: \n🌗 Se ve perfecto tanto en temas claros como oscuros. \n🌍 Soporte nativo para múltiples idiomas. \n⚡ 100% Automático gracias a que GitHub Actions se encarga de actualizar el contenido a diario.\n\nDeja de tener un perfil \"fantasma\" y empieza a mostrar tu impacto real. \n\nTienes el código listo para usar y documentado aquí:\n\n🔗 https://lnkd.in/ek7q9sHg\n\nPD: Como prueba de que funciona, ¡esta misma publicación aparecerá automáticamente en mi propio README mañana! Así que comparte este post si quieres formar parte de mi perfil de GitHub por unos días. 😉\n\n#GitHub #PersonalBranding #OpenSource #LinkedInCards #DeveloperTools #WebDevelopment #ProfileTips",
-    "url": "https://www.linkedin.com/posts/alexcerezocontreras_github-alexcerezolinkedin-cards-automatically-activity-7413539301910536193--rE9?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDsOLIBleMMU19Ynwm_l0TMZPXbPSsSCPU",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_github-alexcerezolinkedin-cards-automatically-activity-7413539301910536193--rE9?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
     "post_type": "regular",
     "author": {
       "first_name": "Alejandro",
@@ -132,11 +225,11 @@
     "full_urn": "urn:li:activity:7412147853705379840",
     "posted_at": {
       "date": "2025-12-31 23:16:45",
-      "relative": "1 week ago • Edited • Visible to anyone on or off LinkedIn",
+      "relative": "2 weeks ago • Edited • Visible to anyone on or off LinkedIn",
       "timestamp": 1767219405878
     },
     "text": "🎉 Cerramos el año como nos gusta: haciendo comunidad\n\nPara despedir este año nos hemos reunido muchas de las comunidades tecnológicas de Málaga, con un objetivo claro: afianzar lazos, compartir experiencias y sentar las bases de futuras colaboraciones 🤝🚀\n\nMálaga tiene un ecosistema increíble gracias a la gente que, de forma altruista, organiza eventos, meetups y espacios donde aprender y crecer juntos. Este encuentro es solo el principio de todo lo que está por venir 💪\n\nGracias a todas las comunidades que formaron parte de este encuentro:\n\nAWS User Group Málaga\nAngular Málaga\nGDG Málaga\nAzureMálaga\ndotnetMalaga\nFlutter Málaga\nGitHub Community España\nMalaga-AI\nMalagaJUG\nPython Málaga\nWordPress Málaga\nFJX\nOpenSouthCode\nGoogle Developers Group\nAlexis Einhorn\nSeguimos trabajando juntos para que 2025 venga cargado de eventos, aprendizaje y colaboración.",
-    "url": "https://www.linkedin.com/posts/biznagafest_cerramos-el-a%C3%B1o-como-nos-gusta-haciendo-activity-7412147853705379840-RxBw?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDsOLIBleMMU19Ynwm_l0TMZPXbPSsSCPU",
+    "url": "https://www.linkedin.com/posts/biznagafest_cerramos-el-a%C3%B1o-como-nos-gusta-haciendo-activity-7412147853705379840-RxBw?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
     "post_type": "repost",
     "author": {
       "first_name": "BiznagaFest",
@@ -144,8 +237,8 @@
       "profile_url": "https://www.linkedin.com/company/biznagafest/posts"
     },
     "stats": {
-      "total_reactions": 79,
-      "like": 48,
+      "total_reactions": 80,
+      "like": 49,
       "support": 4,
       "love": 13,
       "insight": 0,
@@ -176,11 +269,11 @@
     "full_urn": "urn:li:activity:7411435651423830016",
     "posted_at": {
       "date": "2025-12-29 17:25:11",
-      "relative": "2 weeks ago • Visible to anyone on or off LinkedIn",
+      "relative": "3 weeks ago • Visible to anyone on or off LinkedIn",
       "timestamp": 1767025511448
     },
     "text": "¡Microsoft lanza un Certificado Profesional de Python!\nEn Coursera y son 6 cursos completos:\n\n✓ De fundamentos a nivel profesional\n✓ Data Analysis, automatización y web\n✓ IA generativa y despliegue en la nube\n✓ Proyectos reales\n\n→ midu.link/mspython",
-    "url": "https://www.linkedin.com/posts/midudev_microsoft-lanza-un-certificado-profesional-activity-7411435651423830016-k0L3?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDsOLIBleMMU19Ynwm_l0TMZPXbPSsSCPU",
+    "url": "https://www.linkedin.com/posts/midudev_microsoft-lanza-un-certificado-profesional-activity-7411435651423830016-k0L3?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
     "post_type": "repost",
     "author": {
       "first_name": "Miguel",
@@ -191,8 +284,8 @@
       "profile_picture": "https://media.licdn.com/dms/image/v2/D4D03AQHigBNGVqRnOA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723639491740?e=1770249600&v=beta&t=J7MCIBFBXAKO_2uQU0jjn1wJMMzjEBbC5eidrZOd5GU"
     },
     "stats": {
-      "total_reactions": 697,
-      "like": 622,
+      "total_reactions": 700,
+      "like": 625,
       "support": 2,
       "love": 15,
       "insight": 30,
@@ -203,10 +296,10 @@
     },
     "media": {
       "type": "image",
-      "url": "https://media.licdn.com/dms/image/v2/D4E10AQErebJUjsRD-w/image-shrink_1280/B4EZtq1c0QHEAU-/0/1767023956115?e=1769004000&v=beta&t=KB_zU6_Zyb8rpJzkMYisxXSYuH8tY-pWba3dxJygmm4",
+      "url": "https://media.licdn.com/dms/image/v2/D4E10AQErebJUjsRD-w/image-shrink_1280/B4EZtq1c0QHEAU-/0/1767023956115?e=1769454000&v=beta&t=GSYHix98w3dc2B_x_hJhjcThD_TyjfJ26SJ4njrh888",
       "images": [
         {
-          "url": "https://media.licdn.com/dms/image/v2/D4E10AQErebJUjsRD-w/image-shrink_1280/B4EZtq1c0QHEAU-/0/1767023956115?e=1769004000&v=beta&t=KB_zU6_Zyb8rpJzkMYisxXSYuH8tY-pWba3dxJygmm4",
+          "url": "https://media.licdn.com/dms/image/v2/D4E10AQErebJUjsRD-w/image-shrink_1280/B4EZtq1c0QHEAU-/0/1767023956115?e=1769454000&v=beta&t=GSYHix98w3dc2B_x_hJhjcThD_TyjfJ26SJ4njrh888",
           "width": 1280,
           "height": 702
         }
@@ -223,11 +316,11 @@
     "full_urn": "urn:li:activity:7410580273488138241",
     "posted_at": {
       "date": "2025-12-27 08:20:19",
-      "relative": "2 weeks ago • Visible to anyone on or off LinkedIn",
+      "relative": "3 weeks ago • Visible to anyone on or off LinkedIn",
       "timestamp": 1766820019123
     },
     "text": "Acabo de obtener mi credencial de Fundamentos de GitHub. Se podría decir que ser miembro de GitHub Community España y no tenerla era un pecado, que hoy por fin he enmendado. 😊 \n\nAprovecho para recordar que quienes tengáis una cuenta de estudiante en GitHub Education podéis obtener las certificaciones de GitHub Foundations y GitHub Copilot de manera totalmente gratuita hasta el 30 de junio de 2026. ¡No lo dejéis pasar! ⌛",
-    "url": "https://www.linkedin.com/posts/alexcerezocontreras_fundamentos-de-github-activity-7410580273488138241-sIZP?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDsOLIBleMMU19Ynwm_l0TMZPXbPSsSCPU",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_fundamentos-de-github-activity-7410580273488138241-sIZP?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
     "post_type": "regular",
     "author": {
       "first_name": "Alejandro",
@@ -250,13 +343,13 @@
     },
     "media": {
       "type": "image",
-      "url": "https://media.licdn.com/dms/image/sync/v2/D4E27AQH-zDm1sdWhMw/articleshare-shrink_1280_800/B4EZtengoQHMAQ-/0/1766818975436?e=1769004000&v=beta&t=7OiwE_4Z_K-siJtghU2zm-S7HOutSqbNK5rf-Ze-WqI"
+      "url": "https://media.licdn.com/dms/image/sync/v2/D4E27AQH-zDm1sdWhMw/articleshare-shrink_1280_800/B4EZtengoQHMAQ-/0/1766818975436?e=1769454000&v=beta&t=0501wk_O3UAt07gciEfynqfNX-LUju5O-f_IDFWxbRg"
     },
     "article": {
       "url": "https://learn.microsoft.com/api/credentials/share/es-es/alexcerezo/91FBE057E45295F1?sharingId=B3DCEEFBC7DB4BEF",
       "title": "Fundamentos de GitHub",
       "subtitle": "learn.microsoft.com",
-      "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D4E27AQH-zDm1sdWhMw/articleshare-shrink_1280_800/B4EZtengoQHMAQ-/0/1766818975436?e=1769004000&v=beta&t=7OiwE_4Z_K-siJtghU2zm-S7HOutSqbNK5rf-Ze-WqI"
+      "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D4E27AQH-zDm1sdWhMw/articleshare-shrink_1280_800/B4EZtengoQHMAQ-/0/1766818975436?e=1769454000&v=beta&t=0501wk_O3UAt07gciEfynqfNX-LUju5O-f_IDFWxbRg"
     },
     "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
   },
@@ -269,19 +362,17 @@
     "full_urn": "urn:li:ugcPost:7409661185563901954",
     "posted_at": {
       "date": "2025-12-24 19:32:02",
-      "relative": "2 weeks ago • Edited • Visible to anyone on or off LinkedIn",
+      "relative": "3 weeks ago • Edited • Visible to anyone on or off LinkedIn",
       "timestamp": 1766601122800
     },
     "text": "GitHub Copilot Coding Agents son instancias de Copilot que trabajan de forma autónoma, permitiendo tener varios agentes trabajando a la vez.\n\nSe usan estándares como Agents.md para dar indicaciones. Algunos agentes incluyen Dash (desarrollador Flutter), El Bicho (tests unitarios), La Cabra (CI/CD), y Semántidas (accesibilidad WCAG).\n\nCada agente se enfoca en su tarea sin interferir con otros, optimizando el código y garantizando su calidad.\n\nPodéis ver la charla completa de Alejandro Cerezo Contreras aquí: https://lnkd.in/ehmQn9gH\n\n#GitHubCopilot #Flutter #DesarrolloWeb #Testing #Accesibilidad",
-    "url": "https://www.linkedin.com/posts/ghspain_githubcopilot-flutter-desarrolloweb-ugcPost-7409661185563901954-WnPl?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDsOLIBleMMU19Ynwm_l0TMZPXbPSsSCPU",
-    "post_type": "regular",
+    "url": "https://www.linkedin.com/posts/ghspain_githubcopilot-flutter-desarrolloweb-ugcPost-7409661185563901954-WnPl?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
+    "post_type": "repost",
     "author": {
-      "first_name": "Alejandro",
-      "last_name": "Cerezo Contreras",
-      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
-      "username": "alexcerezocontreras",
-      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
-      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1770249600&v=beta&t=RBazk0dZC_VfK84eD1-SQIrEVT4bLnvTQM1uoHeY1Bc"
+      "first_name": "GitHub",
+      "last_name": "Community España",
+      "headline": "348 followers",
+      "profile_url": "https://www.linkedin.com/company/ghspain/posts"
     },
     "stats": {
       "total_reactions": 6,
@@ -296,8 +387,8 @@
     },
     "media": {
       "type": "video",
-      "url": "https://dms.licdn.com/playlist/vid/v2/D4E10AQE2Nn4mSL2nlQ/mp4-720p-30fp-crf28/B4EZtRnlu1GYB4-/0/1766600913216?e=1769004000&v=beta&t=RI8PgcGg6ykzZGgpkwvknMh-psM1hr2FB4W_CS8LVyk",
-      "thumbnail": "https://media.licdn.com/dms/image/v2/D4E10AQE2Nn4mSL2nlQ/videocover-high/B4EZtRnlu1GYAw-/0/1766600902713?e=1769004000&v=beta&t=NMdUgZbm5foSljKoyApPoj-1k99NQVp3cR1vfJBXcg8"
+      "url": "https://dms.licdn.com/playlist/vid/v2/D4E10AQE2Nn4mSL2nlQ/mp4-720p-30fp-crf28/B4EZtRnlu1GYB4-/0/1766600913216?e=1769454000&v=beta&t=gXUf5RZ0HNgkaAIRiQQjmvydp6YQaRW9M1oWWor5nKY",
+      "thumbnail": "https://media.licdn.com/dms/image/v2/D4E10AQE2Nn4mSL2nlQ/videocover-high/B4EZtRnlu1GYAw-/0/1766600902713?e=1769454000&v=beta&t=rLF_Vvvi_mBtF3uMWEYTo_oIcVDJEbhXdroEiIZzkLY"
     },
     "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
   },
@@ -310,22 +401,22 @@
     "full_urn": "urn:li:ugcPost:7408931088179449857",
     "posted_at": {
       "date": "2025-12-23 11:07:02",
-      "relative": "3 weeks ago • Visible to anyone on or off LinkedIn",
+      "relative": "0 months ago • Visible to anyone on or off LinkedIn",
       "timestamp": 1766484422888
     },
     "text": "¡Dimitri está ready 😜 porque vuelve #OpenSouthCode26!\nSave the date!  🗓️ 26 & 27 June. La Térmica (Málaga)\nLa web ya acepta charlas. #CFP is open! 👉 \nhttps://lnkd.in/ef_zYX6r\n\n¡Felices y Libres Fiestas! 🐧🎄🌟✨",
-    "url": "https://www.linkedin.com/posts/opensouthcode_opensouthcode26-cfp-ugcPost-7408931088179449857-XhGf?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDsOLIBleMMU19Ynwm_l0TMZPXbPSsSCPU",
+    "url": "https://www.linkedin.com/posts/opensouthcode_opensouthcode26-cfp-ugcPost-7408931088179449857-XhGf?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
     "post_type": "repost",
     "author": {
       "first_name": "OpenSouthCode",
-      "headline": "1,300 followers",
+      "headline": "1,302 followers",
       "profile_url": "https://www.linkedin.com/company/opensouthcode/posts"
     },
     "stats": {
-      "total_reactions": 48,
-      "like": 31,
+      "total_reactions": 52,
+      "like": 34,
       "support": 1,
-      "love": 8,
+      "love": 9,
       "insight": 0,
       "celebrate": 5,
       "funny": 3,
@@ -334,8 +425,8 @@
     },
     "media": {
       "type": "video",
-      "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQHaC34xnnTkZg/mp4-720p-30fp-crf28/B4EZtHQHUFIMCI-/0/1766426981209?e=1769004000&v=beta&t=lviL4_F9HshGx3LWfMPmH3ubSL9yh7wwVq095gaDqDY",
-      "thumbnail": "https://media.licdn.com/dms/image/v2/D4E05AQHaC34xnnTkZg/videocover-high/B4EZtHQHUFIMBU-/0/1766426971917?e=1769004000&v=beta&t=NR_b3hCP5lRWo7ac9i4oriKf2t3xmwYv2mbBpwuWkNE"
+      "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQHaC34xnnTkZg/mp4-720p-30fp-crf28/B4EZtHQHUFIMCI-/0/1766426981209?e=1769454000&v=beta&t=qtBOEszGIRJolbl_e19-GDFc1_7mnasWcfBspXxDaQQ",
+      "thumbnail": "https://media.licdn.com/dms/image/v2/D4E05AQHaC34xnnTkZg/videocover-high/B4EZtHQHUFIMBU-/0/1766426971917?e=1769454000&v=beta&t=wnjGyyLZfoaz6lveKMg8SCxN1xJ356DZOECc4iy6t-0"
     },
     "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
   },
@@ -352,7 +443,7 @@
       "timestamp": 1765386115681
     },
     "text": "La semana pasada colaboré con Flutter Málaga dando una charla en el #GSEC sobre \"La odisea de Dash al Deploy\" y cómo podemos llevar el desarrollo de software al siguiente nivel utilizando GitHub Copilot Custom Agents para el desarrollo de aplicaciones con Flutter 🤖.\n\nFue una experiencia genial poder mostrar en vivo cómo orquestar un equipo de agentes de IA especializados: desde Dash🐦 programando la arquitectura, pasando por Semantidash🤓 asegurando la accesibilidad y El Bicho🪲 en los tests, hasta llegar a La Cabra🐐 automatizando el despliegue.\n\nLo mejor fue demostrar que, con el contexto y el uso adecuados, la IA deja de ser solo un chat para convertirse en una extensión real de nuestro equipo 🧠.\n\nSi te interesa, puedes ver la charla en el canal de YouTube de GitHub Community España, puedes verla aquí: https://lnkd.in/eKAV2C3s",
-    "url": "https://www.linkedin.com/posts/alexcerezocontreras_gsec-activity-7404566046545903616-oy71?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDsOLIBleMMU19Ynwm_l0TMZPXbPSsSCPU",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_gsec-activity-7404566046545903616-oy71?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
     "post_type": "regular",
     "author": {
       "first_name": "Alejandro",
@@ -409,7 +500,7 @@
       "timestamp": 1764681059178
     },
     "text": "¡La Flutter Málaga DevParty navideña vuelve el 4 de diciembre! 🎄\n\nÚnete a nosotros en Google Málaga para una tarde de Flutter, comunidad y regalos.\n\nConoce las últimas novedades de la mano de Alejandro Cerezo Contreras, Óscar Martín Martín (GDE en Flutter) y Daniel Aranda Maestro \n\n¡Reserva tu plaza aquí antes de que se agoten!\n\n---\n\nThe Flutter Málaga DevParty Christmas edition is happening on December 4th! 🎄\n\nJoin us at Google Málaga for an evening of Flutter deep-dives, networking, and prizes.\n\nFeaturing expert speakers:\nAlejandro Cerezo Contreras, Óscar Martín Martín (Flutter GDE), Daniel Aranda Maestro \n\nSpaces are limited—register now!\n\nFlutter Málaga Flutter Dev",
-    "url": "https://www.linkedin.com/posts/felixwielander_flutter-devparty-christmas-edition-thu-activity-7401607466154606592-jOu4?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDsOLIBleMMU19Ynwm_l0TMZPXbPSsSCPU",
+    "url": "https://www.linkedin.com/posts/felixwielander_flutter-devparty-christmas-edition-thu-activity-7401607466154606592-jOu4?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
     "post_type": "repost",
     "author": {
       "first_name": "Felix",
@@ -432,13 +523,13 @@
     },
     "media": {
       "type": "image",
-      "url": "https://media.licdn.com/dms/image/sync/v2/D4D27AQFbzQfba1QV7w/articleshare-shrink_800/B4DZrfJpyOKIAI-/0/1764680441327?e=1769004000&v=beta&t=m9VJHpcknttQiwAz-USOA58bkFHgDeQezZoybS7S594"
+      "url": "https://media.licdn.com/dms/image/sync/v2/D4D27AQFbzQfba1QV7w/articleshare-shrink_800/B4DZrfJpyOKIAI-/0/1764680441327?e=1769454000&v=beta&t=iifar9m7dwz30jelcjZbTtk5H0toj3XIvlA-pvGZ7zA"
     },
     "article": {
       "url": "https://meetu.ps/e/PCzvB/LKPn0/i",
       "title": "Flutter DevParty - Christmas Edition, Thu, Dec 4, 2025, 5:00 PM | Meetup",
       "subtitle": "meetup.com",
-      "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D4D27AQFbzQfba1QV7w/articleshare-shrink_800/B4DZrfJpyOKIAI-/0/1764680441327?e=1769004000&v=beta&t=m9VJHpcknttQiwAz-USOA58bkFHgDeQezZoybS7S594"
+      "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D4D27AQFbzQfba1QV7w/articleshare-shrink_800/B4DZrfJpyOKIAI-/0/1764680441327?e=1769454000&v=beta&t=iifar9m7dwz30jelcjZbTtk5H0toj3XIvlA-pvGZ7zA"
     },
     "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
   },
@@ -455,7 +546,7 @@
       "timestamp": 1764338228496
     },
     "text": "¿Tienes curiosidad por saber cómo la IA está cambiando la forma en que escribimos código?\n\nJunto a Gemma Catalano Llamas, estoy organizando una tarde dedicada a explorar Cursor, el IDE del que todo el mundo habla. Y lo mejor de todo: tendremos la oportunidad de hacer un Q&A directo con el equipo de creadores de la herramienta.\n\nNo importa si eres experto o si nunca has escrito una línea de código. El objetivo es aprender nuevos flujos de trabajo, ver demos reales de la comunidad y conectar con gente interesante.\n\n📅 ¿Qué te espera?\n- Networking con café y snacks ☕\n- Preguntas y respuestas con el equipo de Cursor.\n- Demos de usuarios locales.\n\n👉 Las plazas vuelan, asegura la tuya aquí: https://lnkd.in/dJ4_NZ7C",
-    "url": "https://www.linkedin.com/posts/damianverdev_cursor-meetup-m%C3%A1laga-luma-activity-7400161380978397184-71Ju?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDsOLIBleMMU19Ynwm_l0TMZPXbPSsSCPU",
+    "url": "https://www.linkedin.com/posts/damianverdev_cursor-meetup-m%C3%A1laga-luma-activity-7400161380978397184-71Ju?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
     "post_type": "repost",
     "author": {
       "first_name": "Damián",
@@ -478,13 +569,13 @@
     },
     "media": {
       "type": "image",
-      "url": "https://media.licdn.com/dms/image/sync/v2/D4D27AQGY-ARI2xHKuw/articleshare-shrink_1280_800/B4DZrKlrP9GkAU-/0/1764335465449?e=1769004000&v=beta&t=62UESQrTMP4WWuhif_GNO4gv78P1zS6uebzfxLubt8I"
+      "url": "https://media.licdn.com/dms/image/sync/v2/D4D27AQGY-ARI2xHKuw/articleshare-shrink_1280_800/B4DZrKlrP9GkAU-/0/1764335465449?e=1769454000&v=beta&t=J31ngXeUOsfkk9Q836kRZPJK4HmKanP79NbfHRzpWGc"
     },
     "article": {
       "url": "https://luma.com/m5b6snm8?utm_source=dvv_ln",
       "title": "Cursor Meetup Málaga · Luma",
       "subtitle": "luma.com",
-      "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D4D27AQGY-ARI2xHKuw/articleshare-shrink_1280_800/B4DZrKlrP9GkAU-/0/1764335465449?e=1769004000&v=beta&t=62UESQrTMP4WWuhif_GNO4gv78P1zS6uebzfxLubt8I"
+      "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D4D27AQGY-ARI2xHKuw/articleshare-shrink_1280_800/B4DZrKlrP9GkAU-/0/1764335465449?e=1769454000&v=beta&t=J31ngXeUOsfkk9Q836kRZPJK4HmKanP79NbfHRzpWGc"
     },
     "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
   },
@@ -501,7 +592,7 @@
       "timestamp": 1762099192952
     },
     "text": "GitHub ha sido clave para compartir y desarrollar código. \n\nPablo nos comenta que la visión detrás de Agent HQ es crear una plataforma que dé visibilidad a agentes de diferentes servicios y proveedores, todo integrado en un sitio centralizado para su control, como un \"Mission Control\".\n\nEste primer paso es potente, pero el desarrollo avanza rápidamente.\n\nAquí os dejamos el directo: https://lnkd.in/ehkMgFEk\n\n#GitHub #DesarrolloDeCódigo #Plataformas #Agentes #Innovación",
-    "url": "https://www.linkedin.com/posts/ghspain_github-desarrollodecaejdigo-plataformas-ugcPost-7390772243506733056-5lTJ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDsOLIBleMMU19Ynwm_l0TMZPXbPSsSCPU",
+    "url": "https://www.linkedin.com/posts/ghspain_github-desarrollodecaejdigo-plataformas-ugcPost-7390772243506733056-5lTJ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
     "post_type": "repost",
     "author": {
       "first_name": "GitHub",
@@ -522,8 +613,8 @@
     },
     "media": {
       "type": "video",
-      "url": "https://dms.licdn.com/playlist/vid/v2/D4D10AQFczLRk_AYSyg/mp4-720p-30fp-crf28/B4DZpFMMlOHwB8-/0/1762097423291?e=1769004000&v=beta&t=W9B-u61KIp05PgBDvCwzybqwy2BrRsAEMv7l2bKgZL0",
-      "thumbnail": "https://media.licdn.com/dms/image/v2/D4D10AQFczLRk_AYSyg/videocover-high/B4DZpFMMlOHwA0-/0/1762097420536?e=1769004000&v=beta&t=gm-_cUSF2FbuBO0_ifQSRDqGYSa6DayOvjES9DPR_Yk"
+      "url": "https://dms.licdn.com/playlist/vid/v2/D4D10AQFczLRk_AYSyg/mp4-720p-30fp-crf28/B4DZpFMMlOHwB8-/0/1762097423291?e=1769454000&v=beta&t=B0EsWf_efjOJ056jC_9Wv3rSJ0lAQEiJP2h30WsWvCY",
+      "thumbnail": "https://media.licdn.com/dms/image/v2/D4D10AQFczLRk_AYSyg/videocover-high/B4DZpFMMlOHwA0-/0/1762097420536?e=1769454000&v=beta&t=bhf4PbSXDBB0toqJ-gMLVJC0hnegByoHFS-Y4LNF3Mk"
     },
     "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
   },
@@ -540,7 +631,7 @@
       "timestamp": 1762091884929
     },
     "text": "¡Nuevo evento en la comunidad! con nuestro amigo Jorge Hidalgo\n\nNos hablará de los agentes, y los agentes remotos de código, como el nuevo Agents HQ de GitHub, Codex, Claude Code, etc... están revolucionados la ingeniería del software y afecta al futuro del desarrollo.\n\nAquí os dejamos el enlace al video: https://lnkd.in/djZwkgP3\n\nPero en evento tenéis toda la información, incluso para añadirlo al calendario, y que os recuerde.\n\nNos vemos en el directo!",
-    "url": "https://www.linkedin.com/posts/ghspain_nuevo-evento-en-la-comunidad-con-nuestro-ugcPost-7390735621176049664-jzhf?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDsOLIBleMMU19Ynwm_l0TMZPXbPSsSCPU",
+    "url": "https://www.linkedin.com/posts/ghspain_nuevo-evento-en-la-comunidad-con-nuestro-ugcPost-7390735621176049664-jzhf?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
     "post_type": "repost",
     "author": {
       "first_name": "GitHub",
@@ -574,7 +665,7 @@
       "timestamp": 1761810600325
     },
     "text": "Estuvimos en directo hablando del primer día de la GitHub Universe, el evento anual más grande de GitHub. En este evento, se exponen las novedades, los avances y el futuro de la plataforma GitHub.\n\nSe exploran las innovaciones presentadas y las posibles direcciones que GitHub podría tomar en los próximos meses, ofreciendo una visión del panorama actual y futuro de la plataforma para la comunidad.\n\nAquí os dejamos el directo: https://lnkd.in/ehkMgFEk\n\n #GitHubUniverse #DesarrolloWeb #InnovaciónTecnológica #Programación",
-    "url": "https://www.linkedin.com/posts/ghspain_githubuniverse-desarrolloweb-innovaciaejntecnolaejgica-ugcPost-7389567813763551232-oj3Q?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDsOLIBleMMU19Ynwm_l0TMZPXbPSsSCPU",
+    "url": "https://www.linkedin.com/posts/ghspain_githubuniverse-desarrolloweb-innovaciaejntecnolaejgica-ugcPost-7389567813763551232-oj3Q?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
     "post_type": "repost",
     "author": {
       "first_name": "GitHub",
@@ -595,8 +686,8 @@
     },
     "media": {
       "type": "video",
-      "url": "https://dms.licdn.com/playlist/vid/v2/D4D10AQHowlJbrqtJwg/mp4-720p-30fp-crf28/B4DZo0ExiuGkB8-/0/1761810264358?e=1769004000&v=beta&t=gG4oHY4mhqXsuBjJFt6Vxcu_K-6PXuphyfe2V6heD2Y",
-      "thumbnail": "https://media.licdn.com/dms/image/v2/D4D10AQHowlJbrqtJwg/videocover-high/B4DZo0ExiuGkA0-/0/1761810261356?e=1769004000&v=beta&t=T3dUxZZjIxPKisCIahkt3cZaIvCzPGygs4sbYMHH0cg"
+      "url": "https://dms.licdn.com/playlist/vid/v2/D4D10AQHowlJbrqtJwg/mp4-720p-30fp-crf28/B4DZo0ExiuGkB8-/0/1761810264358?e=1769454000&v=beta&t=wNRWGBiXLQ2KeQZpNQOju8cazuQdhZKkflFcLb0cjWk",
+      "thumbnail": "https://media.licdn.com/dms/image/v2/D4D10AQHowlJbrqtJwg/videocover-high/B4DZo0ExiuGkA0-/0/1761810261356?e=1769454000&v=beta&t=_cUbhemuHuRzhcmG99BKorc-oNe1vI-OtAKWEHqEiUw"
     },
     "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
   },
@@ -613,7 +704,7 @@
       "timestamp": 1761743769395
     },
     "text": "La tarde de ayer fue magnífica, pero aún no hemos terminado😁\n\nNos vemos esta tarde en el Post-Partido a las 18:00 CET en nuestro canal de YouTube, donde estaremos comentando los avances que se anunciarán en la GitHub Universe.\n\nPost-partido: https://lnkd.in/dRndN6X4",
-    "url": "https://www.linkedin.com/posts/alexcerezocontreras_agentshq-activity-7389288938949197824-4-9n?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDsOLIBleMMU19Ynwm_l0TMZPXbPSsSCPU",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_agentshq-activity-7389288938949197824-4-9n?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
     "post_type": "quote",
     "author": {
       "first_name": "Alejandro",
@@ -646,7 +737,7 @@
         "timestamp": 1761743420791
       },
       "text": "¡Increíble jornada de la GitHub Universe Watch Party Malagueña de ayer! 🚀\n\nTodo fue rodado, y tuvimos la suerte de ver los últimos y más emocionantes avances de GitHub, como la presentación de #AgentsHQ, que promete cambiar las reglas del juego para el desarrollo con IA.\n\nTuvimos una charla magistral a cargo de Daniel Sánchez Muñoz 🎤 y conectamos en directo con Xavier Portilla Edo, a quienes queremos dar las gracias de corazón por su tiempo y sus valiosas aportaciones.\n\nTambién nos gustaría agradecer a todos los asistentes por hacer de este evento un encuentro vibrante, y en especial a Pablo Núñez Navarro y Jorge Hidalgo por su apoyo incondicional a la comunidad. ¡Vuestra ayuda es fundamental!\n\n¡Y por supuesto, dar la enhorabuena a los afortunados ganadores de los sorteos: Ricardo Guzmán Velasco y Fran Guerrero!\n\nPara todos aquellos que no pudisteis asistir, aún tenéis una oportunidad de poneros al día. ¡Os esperamos hoy en el Post-Partido en nuestro canal de YouTube! Repasaremos todas las novedades y responderemos vuestras dudas en directo.\n\n➡️ Post-Partido: https://lnkd.in/dUChCpMZ\n\nPor último, decir que ya estamos pensando en los próximos eventos. ¡Estad atentos a las novedades! 😉",
-      "url": "https://www.linkedin.com/posts/ghspain_agentshq-activity-7389287476798050304-21Sm?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDsOLIBleMMU19Ynwm_l0TMZPXbPSsSCPU",
+      "url": "https://www.linkedin.com/posts/ghspain_agentshq-activity-7389287476798050304-21Sm?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
       "post_type": "regular",
       "author": {
         "first_name": "GitHub",
@@ -712,7 +803,7 @@
       "timestamp": 1761589032802
     },
     "text": "Mañana es la WatchParty de la GitHub #universe25 que montamos en la GitHub Community España, qué por primera vez, tendremos en Madrid y Málaga al mismo tiempo.\n\nEn el caso de Madrid tendremos una charla increíble, relacionada con el desarrollo, seguridad y open source.\n\nTendremos la suerte de que puedan venir, Andoni Alonso y Pepe Fagoaga, que trabajan en un producto open-source con centenar de PRs y más 12k en GitHub y cómo podemos colaborar para ir creando nuestro porfolio.\n\nhttps://lnkd.in/dyDf2mFH\n\nProwler es una herramienta de seguridad en la nube, se integra con las diferentes plataformas para automatizar auditorías y escaneos de seguridad. Mostrarán una demo escaneando una organización de GitHub. Contarán como es gestionar el repositorio y la comunidad. Además, verás cómo tu mismo puedes empezar a contribuir, desde abrir una issue hasta tu primer PR.\n\nEl objetivo: salgas con las herramientas y confianza necesarias para hacer tu primera contribución en GitHub.\n\nSi todavía no te has apuntado nos vemos mañana en Celonis Madrid a las 17:45.Aquí tienes toda la información: https://lnkd.in/dNfnQwgN",
-    "url": "https://www.linkedin.com/posts/svg153_github-universe-2025-watch-party-madrid-activity-7388638755580088320-74BU?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDsOLIBleMMU19Ynwm_l0TMZPXbPSsSCPU",
+    "url": "https://www.linkedin.com/posts/svg153_github-universe-2025-watch-party-madrid-activity-7388638755580088320-74BU?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
     "post_type": "repost",
     "author": {
       "first_name": "Sergio",
@@ -735,13 +826,13 @@
     },
     "media": {
       "type": "image",
-      "url": "https://media.licdn.com/dms/image/sync/v2/D4E27AQHGz0pHT_UG1w/articleshare-shrink_1280_800/B4EZmRD022KYAQ-/0/1759075323612?e=1769004000&v=beta&t=8ZXIMoCrLoeb7t_oGp3u_QFGlXlF7UBKH0DTSEnsWl0"
+      "url": "https://media.licdn.com/dms/image/sync/v2/D4E27AQHGz0pHT_UG1w/articleshare-shrink_1280_800/B4EZmRD022KYAQ-/0/1759075323612?e=1769454000&v=beta&t=rhuZFggyNvkZw7ij9ZlZWEz3t9EozT1u_FEzXxUtuyU"
     },
     "article": {
       "url": "https://www.meetup.com/ghspain/events/310939888",
       "title": "GitHub Universe 2025 - Watch Party - Madrid, mar, 28 oct 2025, 17:45 | Meetup",
       "subtitle": "meetup.com",
-      "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D4E27AQHGz0pHT_UG1w/articleshare-shrink_1280_800/B4EZmRD022KYAQ-/0/1759075323612?e=1769004000&v=beta&t=8ZXIMoCrLoeb7t_oGp3u_QFGlXlF7UBKH0DTSEnsWl0"
+      "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D4E27AQHGz0pHT_UG1w/articleshare-shrink_1280_800/B4EZmRD022KYAQ-/0/1759075323612?e=1769454000&v=beta&t=rhuZFggyNvkZw7ij9ZlZWEz3t9EozT1u_FEzXxUtuyU"
     },
     "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
   },
@@ -758,7 +849,7 @@
       "timestamp": 1760432142916
     },
     "text": "La página de GitHub Community España, ha sido rediseñada recientemente gracias a la colaboración de Alejandro Cerezo Contreras, un nuevo miembro de la comunidad.\n\nEl objetivo principal fue mantener la fidelidad al diseño original de GitHub, asegurando que la página reflejara la estética y funcionalidad de la plataforma. El resultado es una página renovada con fácil acceso a los últimos eventos y una navegación intuitiva. \n\nSeguimos trabajando en mejoras adicionales, pero el diseño actual ya ofrece una experiencia mejorada para los usuarios. \n\nMuchas gracias Andrea Griffiths PMP CCSK, por invitarnos a los jueves de quack, estamos siempre que quieras ;)\n\n #GitHub #diseño web #comunidad #innovación #programación",
-    "url": "https://www.linkedin.com/posts/ghspain_github-diseaeho-comunidad-ugcPost-7383785946451898368-tDg4?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDsOLIBleMMU19Ynwm_l0TMZPXbPSsSCPU",
+    "url": "https://www.linkedin.com/posts/ghspain_github-diseaeho-comunidad-ugcPost-7383785946451898368-tDg4?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
     "post_type": "repost",
     "author": {
       "first_name": "GitHub",
@@ -779,8 +870,8 @@
     },
     "media": {
       "type": "video",
-      "url": "https://dms.licdn.com/playlist/vid/v2/D4D10AQFZVfyzIqt1Rw/mp4-720p-30fp-crf28/B4DZnh6MkjIcBw-/0/1760431761635?e=1769004000&v=beta&t=lzA6hdAWZE0t3y10a09bRpQA9BAyVaepe_5b_u7nMl8",
-      "thumbnail": "https://media.licdn.com/dms/image/v2/D4D10AQFZVfyzIqt1Rw/videocover-high/B4DZnh6MkjIcAo-/0/1760431758040?e=1769004000&v=beta&t=UDTzqvCKovrf5UoMvPMFU0xvs6qY9_2Qf-zXlCyepVM"
+      "url": "https://dms.licdn.com/playlist/vid/v2/D4D10AQFZVfyzIqt1Rw/mp4-720p-30fp-crf28/B4DZnh6MkjIcBw-/0/1760431761635?e=1769454000&v=beta&t=1ccMeX0urUpSD876SfaL0fW0VBvIZ4RD6WRJeeRSBSw",
+      "thumbnail": "https://media.licdn.com/dms/image/v2/D4D10AQFZVfyzIqt1Rw/videocover-high/B4DZnh6MkjIcAo-/0/1760431758040?e=1769454000&v=beta&t=oq-Ig4QX15ikTY4kepaD_fF3NawschGFN2PdcDBrXK4"
     },
     "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
   },
@@ -797,7 +888,7 @@
       "timestamp": 1759510960730
     },
     "text": "I've just shared with our friends of Malaga-AI  our next GitHub Community España watch party to the GitHub Universe keynote in Verisk offices at Málaga Plaza. Here's the link to register in: https://lnkd.in/dkm_VgkD",
-    "url": "https://www.linkedin.com/posts/pablonuneznavarro_ive-just-shared-with-our-friends-of-malaga-ai-activity-7379554605615087616-ZnLG?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDsOLIBleMMU19Ynwm_l0TMZPXbPSsSCPU",
+    "url": "https://www.linkedin.com/posts/pablonuneznavarro_ive-just-shared-with-our-friends-of-malaga-ai-activity-7379554605615087616-ZnLG?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
     "post_type": "repost",
     "author": {
       "first_name": "Pablo",
@@ -833,7 +924,7 @@
       "timestamp": 1758927225464
     },
     "text": "Hoy he tenido la suerte de asistir al primer encuentro de universitarios para el impulso de la ciberseguridad en la Universidad de Sevilla. ✨\n\nEste evento no solo me ha permitido ampliar mi visión sobre el tema, sino que también me ha ayudado a conocer a muchos compañeros de todas las provincias. \n\nHa sido una experiencia muy enriquecedora. El madrugón ha merecido la pena. ¡Estoy deseando poder asistir a la próxima edición! 🚀",
-    "url": "https://www.linkedin.com/posts/alexcerezocontreras_hoy-he-tenido-la-suerte-de-asistir-al-primer-activity-7377475497473146880-MYnC?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDsOLIBleMMU19Ynwm_l0TMZPXbPSsSCPU",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_hoy-he-tenido-la-suerte-de-asistir-al-primer-activity-7377475497473146880-MYnC?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
     "post_type": "regular",
     "author": {
       "first_name": "Alejandro",
@@ -885,7 +976,7 @@
       "timestamp": 1758801198551
     },
     "text": "📣 El martes 28 de octubre nos juntamos en Verisk (Málaga) para la GitHub Universe 2025 Watch Party Malagueña. Después, mi compañero Daniel Sánchez Muñoz (Lemoncoders) dará la charla “El Señor de los Webhooks: La comunidad del build”.\n\n🔧 ¿De qué va? De usar GitHub Webhooks para que sistemas externos (p. ej. un headless CMS o tus propias apps) activen tus flujos de CI/CD justo cuando toca. Habrá ejemplo práctico y trucos para llevar GitHub Actions un pasito más allá.\n\n🙏 Mil gracias a GitHub Community España y a Verisk por el espacio y el apoyo.\n🎟️ Entrada gratuita y aforo limitado (40).\n🕕 18:00–20:30 en C. Don Cristian, 2 (Málaga).\n\nSi te animas a aprender, compartir y echar un rato con la comunidad, ¡vente!\n👉 Apúntate aquí: https://lnkd.in/exq-_4av",
-    "url": "https://www.linkedin.com/posts/brauliodiez_github-universe-2025-watch-party-malague%C3%B1a-activity-7376939353526394880-S10y?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDsOLIBleMMU19Ynwm_l0TMZPXbPSsSCPU",
+    "url": "https://www.linkedin.com/posts/brauliodiez_github-universe-2025-watch-party-malague%C3%B1a-activity-7376939353526394880-S10y?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
     "post_type": "repost",
     "author": {
       "first_name": "Braulio",
@@ -908,13 +999,13 @@
     },
     "media": {
       "type": "image",
-      "url": "https://media.licdn.com/dms/image/sync/v2/D4E27AQHv-f1QohGFvQ/articleshare-shrink_800/B4EZmAm4Q.HcAM-/0/1758799299959?e=1769004000&v=beta&t=N45QckgqX2-3hdspETycWsL6PRz2YPvcjd8DiNCW6GM"
+      "url": "https://media.licdn.com/dms/image/sync/v2/D4E27AQHv-f1QohGFvQ/articleshare-shrink_800/B4EZmAm4Q.HcAM-/0/1758799299959?e=1769454000&v=beta&t=2VcBuTnQ1jCP5tRukDMMPdigsk5i47r-EUFgrdvw-ts"
     },
     "article": {
       "url": "https://www.meetup.com/ghspain/events/311099875/",
       "title": "GitHub Universe 2025 Watch Party Malagueña & The Lord of the Webhooks ✨, mar, 28 oct 2025, 18:00 | Meetup",
       "subtitle": "meetup.com",
-      "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D4E27AQHv-f1QohGFvQ/articleshare-shrink_800/B4EZmAm4Q.HcAM-/0/1758799299959?e=1769004000&v=beta&t=N45QckgqX2-3hdspETycWsL6PRz2YPvcjd8DiNCW6GM"
+      "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D4E27AQHv-f1QohGFvQ/articleshare-shrink_800/B4EZmAm4Q.HcAM-/0/1758799299959?e=1769454000&v=beta&t=2VcBuTnQ1jCP5tRukDMMPdigsk5i47r-EUFgrdvw-ts"
     },
     "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
   },
@@ -931,7 +1022,7 @@
       "timestamp": 1758651197071
     },
     "text": "Evento nuevo en la comunidad para celebrar el evento de GitHub Universe 25!!\n\nSi podeis asistir a los eventos presenciales que tenemos en Madrid y Málaga el 28/10 os invitamos al directo que haremos repasando las novedades\n\nTendremos una invitada muy especial, Gisela Torres que se pasará a contarnos las novedades de primera mano, su opinión, y lo mismo cae alguna demo ;)\n\nNos vemos el 29/10 a las 18h en YouTube (https://lnkd.in/ehkMgFEk)",
-    "url": "https://www.linkedin.com/posts/ghspain_evento-nuevo-en-la-comunidad-para-celebrar-ugcPost-7376314243530256384-8isg?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDsOLIBleMMU19Ynwm_l0TMZPXbPSsSCPU",
+    "url": "https://www.linkedin.com/posts/ghspain_evento-nuevo-en-la-comunidad-para-celebrar-ugcPost-7376314243530256384-8isg?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
     "post_type": "repost",
     "author": {
       "first_name": "GitHub",
@@ -961,11 +1052,11 @@
     "full_urn": "urn:li:activity:7374160674068877312",
     "posted_at": {
       "date": "2025-09-17 21:21:49",
-      "relative": "3 months ago • Visible to anyone on or off LinkedIn",
+      "relative": "4 months ago • Visible to anyone on or off LinkedIn",
       "timestamp": 1758136909978
     },
     "text": "Hoy a tocado asistir a la charla de AzureMálaga en las oficinas de Sector Alarm Group. Robert Przybylski (he/him) nos ha compartido una pequeña parte de todo lo que sabe de Entra ID, un servicio de gestion de identidades y acceso de Microsoft.\n\nGracias en especial a Javier Garcia Martinez y Jesús Estévez Caparrós por hacer posible la charla.",
-    "url": "https://www.linkedin.com/posts/alexcerezocontreras_hoy-a-tocado-asistir-a-la-charla-de-azurem%C3%A1laga-activity-7374160674068877312-biYP?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDsOLIBleMMU19Ynwm_l0TMZPXbPSsSCPU",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_hoy-a-tocado-asistir-a-la-charla-de-azurem%C3%A1laga-activity-7374160674068877312-biYP?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
     "post_type": "regular",
     "author": {
       "first_name": "Alejandro",
@@ -1012,7 +1103,7 @@
       "timestamp": 1754638586598
     },
     "text": "La nueva forma de encontrar compañeros de piso con #RooMate\n\n🟡 🏠 📝 🚗 🌳 🎉  🍝\n\nUn proyecto convertido en La Comunidad Universitaria donde podrás encontrar todo para la vida universitaria: subir apuntes, publicar viajes, ganar dinero, conocer nuevos estudiantes y saber el salseo de tu facultad. \n\n¡Conecta tu historia ya, gratis desde roomate.es!\n\n#vivienda #universidad #compañeros #comunidad #universitario #alquiler #notemate #carmate #chatmate #verano #vueltaalauni",
-    "url": "https://www.linkedin.com/posts/ugcPost-7359307023378800640-6ocZ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDsOLIBleMMU19Ynwm_l0TMZPXbPSsSCPU",
+    "url": "https://www.linkedin.com/posts/ugcPost-7359307023378800640-6ocZ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
     "post_type": "repost",
     "author": {
       "first_name": "Manuel",
@@ -1035,8 +1126,8 @@
     },
     "media": {
       "type": "video",
-      "url": "https://dms.licdn.com/playlist/vid/v2/D4D05AQH2x94RSO_vsw/mp4-720p-30fp-crf28/B4DZiGCvqpHwB0-/0/1754595606609?e=1769004000&v=beta&t=NnMGsFEKiA0Q4y8Tizk9vHhrF4QTHmcR6Q-x49mKtLY",
-      "thumbnail": "https://media.licdn.com/dms/image/v2/D4D05AQH2x94RSO_vsw/videocover-high/B4DZiGCvqpHwCM-/0/1754595592898?e=1769004000&v=beta&t=v7oAzMUWXShRv7cRCd4kMGqH37u3hoR9zhwgVpq2v24"
+      "url": "https://dms.licdn.com/playlist/vid/v2/D4D05AQH2x94RSO_vsw/mp4-720p-30fp-crf28/B4DZiGCvqpHwB0-/0/1754595606609?e=1769454000&v=beta&t=-4eAs3_oqkZLrXw_nUtxqpAdH7_xZnZQdwMDDL-yveo",
+      "thumbnail": "https://media.licdn.com/dms/image/v2/D4D05AQH2x94RSO_vsw/videocover-high/B4DZiGCvqpHwCM-/0/1754595592898?e=1769454000&v=beta&t=KiLBz9UC9FVn3h9j1VXDRMMpL5lcNQXAbK7PoCN1DOA"
     },
     "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
   },
@@ -1053,7 +1144,7 @@
       "timestamp": 1753290526617
     },
     "text": "Mañana sobre esta hora estaremos aprendiendo como hacer fine-tuning a modelos LLM aplicado al mundo crypto de mano de Alejandro Cerezo Contreras Si no te lo quieres perder, ya sabes ⬇️⬇️⬇️⬇️⬇️⬇️⬇️ \n\nhttps://lnkd.in/dDdAnzEa",
-    "url": "https://www.linkedin.com/posts/gdg-c%C3%B3rdoba_ma%C3%B1ana-sobre-esta-hora-estaremos-aprendiendo-activity-7353832120315691009-8SBx?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDsOLIBleMMU19Ynwm_l0TMZPXbPSsSCPU",
+    "url": "https://www.linkedin.com/posts/gdg-c%C3%B3rdoba_ma%C3%B1ana-sobre-esta-hora-estaremos-aprendiendo-activity-7353832120315691009-8SBx?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
     "post_type": "repost",
     "author": {
       "first_name": "GDG",
@@ -1074,10 +1165,10 @@
     },
     "media": {
       "type": "image",
-      "url": "https://media.licdn.com/dms/image/v2/D4D10AQFoJejlHrmRZg/image-shrink_800/B4DZg4POwbGsAg-/0/1753290184455?e=1769004000&v=beta&t=nCD9_eGWpF9DVwb0zLleVZAhwHSLJi6mArg8RhxJq38",
+      "url": "https://media.licdn.com/dms/image/v2/D4D10AQFoJejlHrmRZg/image-shrink_800/B4DZg4POwbGsAg-/0/1753290184455?e=1769454000&v=beta&t=OYwfBm8P2_oJs89dfp7LC42atlw_9JKD7aoCr0HOnUY",
       "images": [
         {
-          "url": "https://media.licdn.com/dms/image/v2/D4D10AQFoJejlHrmRZg/image-shrink_800/B4DZg4POwbGsAg-/0/1753290184455?e=1769004000&v=beta&t=nCD9_eGWpF9DVwb0zLleVZAhwHSLJi6mArg8RhxJq38",
+          "url": "https://media.licdn.com/dms/image/v2/D4D10AQFoJejlHrmRZg/image-shrink_800/B4DZg4POwbGsAg-/0/1753290184455?e=1769454000&v=beta&t=OYwfBm8P2_oJs89dfp7LC42atlw_9JKD7aoCr0HOnUY",
           "width": 724,
           "height": 1024
         }
@@ -1098,7 +1189,7 @@
       "timestamp": 1753094493883
     },
     "text": "¡Qué NOTICIÓN! 🚀 Estoy profundamente agradecido por esta oportunidad de unirme a GitHub Community España.\n\nGracias por la confianza. Estad atentos a todo lo que se viene!!",
-    "url": "https://www.linkedin.com/posts/alexcerezocontreras_github-comunidad-espaaeha-activity-7353011248071868416-zrA8?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDsOLIBleMMU19Ynwm_l0TMZPXbPSsSCPU",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_github-comunidad-espaaeha-activity-7353011248071868416-zrA8?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
     "post_type": "quote",
     "author": {
       "first_name": "Alejandro",
@@ -1131,7 +1222,7 @@
         "timestamp": 1753081801238
       },
       "text": "¡Grandes noticias para la comunidad! 🚀\n\nEn GitHub Community España estamos encantados de anunciar la incorporación de Alejandro Cerezo Contreras a nuestro equipo.\n\nSus ganas, pasión, y experiencia en GitHub nos permitirán hacer nuevos proyectos fomentando la colaboración y el conocimiento de GitHub en España.\n\n¡Juntos podremos hacer más cosas en la comunidad! Atento a todo lo que vayamos haciendo.\n\nOs dejamos la charla que dío en directo en el canal de la comunidad sobre:\nSkillsets: Integra tus APIs y herramientas en VS Code y Copilot Chat \nhttps://lnkd.in/dk9ZDHrD\n\n#GitHub #Comunidad #España",
-      "url": "https://www.linkedin.com/posts/ghspain_github-comunidad-espaaeha-activity-7352958011260207104-4HMm?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDsOLIBleMMU19Ynwm_l0TMZPXbPSsSCPU",
+      "url": "https://www.linkedin.com/posts/ghspain_github-comunidad-espaaeha-activity-7352958011260207104-4HMm?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
       "post_type": "regular",
       "author": {
         "first_name": "GitHub",
@@ -1155,19 +1246,593 @@
   },
   {
     "urn": {
-      "activity_urn": "9999999999999999999",
-      "share_urn": "9999999999999999998",
+      "activity_urn": "7353010260506271745",
+      "share_urn": "7352839165828304896",
       "ugcPost_urn": null
     },
-    "full_urn": "urn:li:activity:9999999999999999999",
+    "full_urn": "urn:li:activity:7352958011260207104",
     "posted_at": {
-      "date": "2026-01-19 00:00:00",
-      "relative": "a few seconds ago • Visible to anyone on or off LinkedIn",
-      "timestamp": 1768030000000
+      "date": "2025-07-21 12:37:38",
+      "relative": "5 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1753094258429
     },
-    "text": "",
-    "url": "https://www.linkedin.com/posts/alexcerezocontreras_simple-repost-example-activity-9999999999999999999",
+    "text": "¡Grandes noticias para la comunidad! 🚀\n\nEn GitHub Community España estamos encantados de anunciar la incorporación de Alejandro Cerezo Contreras a nuestro equipo.\n\nSus ganas, pasión, y experiencia en GitHub nos permitirán hacer nuevos proyectos fomentando la colaboración y el conocimiento de GitHub en España.\n\n¡Juntos podremos hacer más cosas en la comunidad! Atento a todo lo que vayamos haciendo.\n\nOs dejamos la charla que dío en directo en el canal de la comunidad sobre:\nSkillsets: Integra tus APIs y herramientas en VS Code y Copilot Chat \nhttps://lnkd.in/dk9ZDHrD\n\n#GitHub #Comunidad #España",
+    "url": "https://www.linkedin.com/posts/ghspain_github-comunidad-espaaeha-activity-7352958011260207104-4HMm?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
     "post_type": "repost",
+    "author": {
+      "first_name": "GitHub",
+      "last_name": "Community España",
+      "headline": "348 followers",
+      "profile_url": "https://www.linkedin.com/company/ghspain/posts"
+    },
+    "stats": {
+      "total_reactions": 9,
+      "like": 6,
+      "support": 0,
+      "love": 1,
+      "insight": 0,
+      "celebrate": 2,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 4
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7352613430186389504",
+      "share_urn": "7351717684817915904",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7351717685589651457",
+    "posted_at": {
+      "date": "2025-07-20 10:20:46",
+      "relative": "6 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1752999646708
+    },
+    "text": "If one Copilot felt like a cheat code, imagine a squad of AI teammates. The new Coding Agent spins up an isolated dev env, opens a PR, and iterates until the tests pass—all while you sip coffee. 100× dev productivity is now a feature, not a meme.\n\nhttps://lnkd.in/gwi8yBxp\n\nWhat you can try today:\n🎟️ Assign any GitHub issue to Copilot straight from the Pull Requests sidebar—no context-switching.\n\n👀 Track progress in the Copilot on My Behalf view and replay every command.\n\n☁️ Unlock the UI with one line: \"githubPullRequests.codingAgent.uiIntegration\": true.\n\nPrefer chat? Hand off your current session and let the agent craft the PR for you.\n\nGrab the GitHub Pull Requests extension, flip the flag, and tell me which chore you’ll off-load first. Can’t wait to see what we build together! ❤️\n\nhttps://lnkd.in/gyHCug-h\n\"githubPullRequests.codingAgent.uiIntegration\": true\n\n#GitHubCopilot #VSCode #AI #DeveloperExperience #DevX",
+    "url": "https://www.linkedin.com/posts/digitarald_github-pull-requests-visual-studio-marketplace-activity-7351717685589651457-L9wD?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
+    "post_type": "repost",
+    "author": {
+      "first_name": "Harald",
+      "last_name": "Kirschner",
+      "headline": "AI for Code & DevX | GitHub Copilot & VS Code PM @ Microsoft",
+      "username": "digitarald",
+      "profile_url": "https://www.linkedin.com/in/digitarald?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAEldg4BVULBn39ajAyQR1KnLjvE-aJpBZE",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/C4E03AQEC-tR1egX-WA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1566876501756?e=1770249600&v=beta&t=86jTkpT9QuLWuMVbaEFw-kQVUl-K1q5tqEReDockoX0"
+    },
+    "stats": {
+      "total_reactions": 98,
+      "like": 82,
+      "support": 0,
+      "love": 9,
+      "insight": 0,
+      "celebrate": 7,
+      "funny": 0,
+      "comments": 4,
+      "reposts": 25
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/sync/v2/D5627AQHRS6macVN31w/articleshare-shrink_1280_800/B56ZgaNgOPHMAU-/0/1752786404655?e=1769454000&v=beta&t=FS3eXTyVFPKqfBcrcaI6EUCvOrIxBsRrCzAq1ybGP0M"
+    },
+    "article": {
+      "url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github",
+      "title": "GitHub Pull Requests - Visual Studio Marketplace",
+      "subtitle": "marketplace.visualstudio.com",
+      "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D5627AQHRS6macVN31w/articleshare-shrink_1280_800/B56ZgaNgOPHMAU-/0/1752786404655?e=1769454000&v=beta&t=FS3eXTyVFPKqfBcrcaI6EUCvOrIxBsRrCzAq1ybGP0M"
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7352604352542294016",
+      "share_urn": "7351914300791259137",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7351914302112415744",
+    "posted_at": {
+      "date": "2025-07-20 09:44:42",
+      "relative": "6 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1752997482429
+    },
+    "text": "Es viernes y probablemente ya estés planificando tu agenda para la semana que viene...\n\nSi quieres hacer un descanso de la playa y además te apetece un poco de fine-tuning para la semana que viene, no te olvides que el jueves 24 tenemos el taller de Fine-tuning de LLMs aplicado al mundo crypto por parte de Alejandro Cerezo Contreras Apúntate:\n\nhttps://lnkd.in/dfUQdNVd",
+    "url": "https://www.linkedin.com/posts/gdg-c%C3%B3rdoba_es-viernes-y-probablemente-ya-est%C3%A9s-planificando-activity-7351914302112415744-OYfj?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
+    "post_type": "repost",
+    "author": {
+      "first_name": "GDG",
+      "last_name": "Córdoba",
+      "headline": "99 followers",
+      "profile_url": "https://www.linkedin.com/company/gdg-c%C3%B3rdoba/posts"
+    },
+    "stats": {
+      "total_reactions": 6,
+      "like": 2,
+      "support": 0,
+      "love": 0,
+      "insight": 3,
+      "celebrate": 1,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 2
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/v2/D4D10AQFzeAvH8-nucA/image-shrink_800/B4DZgc_BiJHwAc-/0/1752832940958?e=1769454000&v=beta&t=BYukX0dUtTGUOIJJXHaco3ZUuW3p-_vipzsIdkDKXzM",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D10AQFzeAvH8-nucA/image-shrink_800/B4DZgc_BiJHwAc-/0/1752832940958?e=1769454000&v=beta&t=BYukX0dUtTGUOIJJXHaco3ZUuW3p-_vipzsIdkDKXzM",
+          "width": 724,
+          "height": 1024
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7348654782233862144",
+      "share_urn": "7348652708343463937",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7348652709329211393",
+    "posted_at": {
+      "date": "2025-07-09 12:10:31",
+      "relative": "6 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1752055831488
+    },
+    "text": "Es verano y los GDGs estamos más a tope que nunca.\n\nHoy, uno de los integrantes de GDG Cordoba Pablo A. , va a estar en el podcast, organizado por los GDGs de Andalucía, llamado \"Compila o revienta\". Si no quieres faltar al primer episodio ⬇️ \n\nhttps://lnkd.in/dpWft5g6",
+    "url": "https://www.linkedin.com/posts/gdg-c%C3%B3rdoba_compila-o-revienta-episodio-1-highway-activity-7348652709329211393-BCPM?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
+    "post_type": "repost",
+    "author": {
+      "first_name": "GDG",
+      "last_name": "Córdoba",
+      "headline": "99 followers",
+      "profile_url": "https://www.linkedin.com/company/gdg-c%C3%B3rdoba/posts"
+    },
+    "stats": {
+      "total_reactions": 5,
+      "like": 4,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 1,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 3
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/v2/D4D10AQFBYrFl3yNcrQ/image-shrink_1280/B4DZfuonheHMAQ-/0/1752055316920?e=1769454000&v=beta&t=l51TXPjMzViLJqciFi-FNfaf9uZ7yJ1rj_4JD27QzpE"
+    },
+    "article": {
+      "url": "https://gdg.community.dev/events/details/google-gdg-granada-presents-compila-o-revienta-episodio-1-highway-to-cyber/",
+      "title": "Compila o revienta: Episodio 1 -  Highway to cyber | Google Developer Groups",
+      "subtitle": "gdg.community.dev",
+      "thumbnail": "https://media.licdn.com/dms/image/v2/D4D10AQFBYrFl3yNcrQ/image-shrink_1280/B4DZfuonheHMAQ-/0/1752055316920?e=1769454000&v=beta&t=l51TXPjMzViLJqciFi-FNfaf9uZ7yJ1rj_4JD27QzpE"
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7347870290653147136",
+      "share_urn": "7347870289873047554",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7347870290653147136",
+    "posted_at": {
+      "date": "2025-07-07 08:13:14",
+      "relative": "6 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1751868794120
+    },
+    "text": "¡Qué mes más intenso se viene! 🚀\n\nHoy es un día de doble confirmación de charlas. Esta vez estaré dando una charla online sobre Fine-tuning con Gemini aplicado al Mercado Crypto.\n\nEn esta sesión, nos sumergiremos en cómo el fine-tuning permite adaptar modelos de lenguaje como Gemini para tareas específicas. Veremos una demo inicial sobre el proceso general, exploraremos sus aplicaciones en el mercado de criptomonedas, y cerraremos con una segunda demo práctica que mostrará cómo hemos aplicado el fine-tuning para el trading intradía de Bitcoin.\n\nSerá una charla técnica pero accesible, ideal para desarrolladores y cualquier persona interesada en la intersección de la IA y el mundo crypto. \n\n¡No faltes!\n\n#FineTuning #Gemini #LLMs #Crypto #Bitcoin #Trading #InteligenciaArtificial #AI #TechTalk #DeveloperLife",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_buildwithia-buildwithgemini-activity-7347870290653147136-Hqwt?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
+    "post_type": "quote",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1770249600&v=beta&t=RBazk0dZC_VfK84eD1-SQIrEVT4bLnvTQM1uoHeY1Bc"
+    },
+    "stats": {
+      "total_reactions": 7,
+      "like": 5,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 2,
+      "funny": 0,
+      "comments": 2,
+      "reposts": 2
+    },
+    "reshared_post": {
+      "urn": {
+        "activity_urn": "7347746558546694144",
+        "share_urn": "7347746557355614209",
+        "ugcPost_urn": null
+      },
+      "posted_at": {
+        "date": "2025-07-07 00:01:34",
+        "relative": "6 months ago • Visible to anyone on or off LinkedIn",
+        "timestamp": 1751839294087
+      },
+      "text": "🗣️¡NUEVA ACTIVIDAD! 🗣️\n\nEl GDG Cordoba no para ni en verano, pero como no sabemos si seguís todavia aguantando el calor de Córdoba o habéis huído ya todos para Fuengirola, esta sesión la vamos a hacer en formato online.\n\nEste mes de julio, Alejandro Cerezo Contreras nos va a explicar que es hacer fine-tuning a un modelo LLM y como aplicarlo al mercado de criptomonedas. No olvides apuntarte para recibir el link para el evento:\n\nhttps://lnkd.in/dDdAnzEa \n\n#BuildWithIA #BuildWithGemini",
+      "url": "https://www.linkedin.com/posts/gdg-c%C3%B3rdoba_buildwithia-buildwithgemini-activity-7347746558546694144-oPRF?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
+      "post_type": "regular",
+      "author": {
+        "first_name": "GDG",
+        "last_name": "Córdoba",
+        "headline": "99 followers",
+        "profile_url": "https://www.linkedin.com/company/gdg-c%C3%B3rdoba/posts"
+      },
+      "stats": {
+        "total_reactions": 0,
+        "like": 0,
+        "support": 0,
+        "love": 0,
+        "insight": 0,
+        "celebrate": 0,
+        "funny": 0,
+        "comments": 0,
+        "reposts": 0
+      },
+      "media": {
+        "type": "image",
+        "url": "https://media.licdn.com/dms/image/v2/D4D10AQFLRhClE6VNEA/image-shrink_800/B4DZfhwe2BGsAg-/0/1751839273571?e=1769454000&v=beta&t=f23yZCqoVEMW8dK5nhU7YF7kJ12hCjXill_t_95fd2E",
+        "images": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D10AQFLRhClE6VNEA/image-shrink_800/B4DZfhwe2BGsAg-/0/1751839273571?e=1769454000&v=beta&t=f23yZCqoVEMW8dK5nhU7YF7kJ12hCjXill_t_95fd2E",
+            "width": 724,
+            "height": 1024
+          }
+        ]
+      }
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7347869519823958016",
+      "share_urn": null,
+      "ugcPost_urn": "7347869519010226176"
+    },
+    "full_urn": "urn:li:ugcPost:7347869519010226176",
+    "posted_at": {
+      "date": "2025-07-07 08:10:10",
+      "relative": "6 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1751868610340
+    },
+    "text": "¡Emocionado de anunciar mi primera charla: \"Integra tus APIs y herramientas en VS Code y Copilot Chat\"! \n\nSerá este jueves. Exploraremos a fondo los GitHub Copilot Skillsets, una forma ligera y rápida de extender GitHub Copilot, permitiéndote conectar tus propias APIs y herramientas directamente en Copilot Chat.\n\nVeremos cómo estos skillsets simplifican la integración de servicios externos, haciendo que Copilot gestione la parte \"inteligente\" mientras tú provees la funcionalidad a través de un endpoint. ¡Prepárense para ver cómo transformar sus flujos de trabajo con IA!\n\nConéctate en directo este jueves aquí: \nhttps://lnkd.in/dUXsJMsx \n\n¡Espero verte!\n\n#GitHubCopilot #Skillsets #AI #DeveloperTools #VSCode #APIs #CopilotChat #Innovation",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_github-copilot-githubcopilot-activity-7347869519823958016-o_yP?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
+    "post_type": "quote",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1770249600&v=beta&t=RBazk0dZC_VfK84eD1-SQIrEVT4bLnvTQM1uoHeY1Bc"
+    },
+    "stats": {
+      "total_reactions": 7,
+      "like": 3,
+      "support": 0,
+      "love": 2,
+      "insight": 0,
+      "celebrate": 2,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 1
+    },
+    "reshared_post": {
+      "urn": {
+        "activity_urn": "7347780864497410048",
+        "share_urn": null,
+        "ugcPost_urn": "7347780863608119296"
+      },
+      "posted_at": {
+        "date": "2025-07-07 02:17:53",
+        "relative": "6 months ago • Edited • Visible to anyone on or off LinkedIn",
+        "timestamp": 1751847473263
+      },
+      "text": "¡Nuevo evento online en la comunidad!\n\n🧠 Skillsets: Integra tus APIs y herramientas en VS Code y Copilot Chat\n\nEste jueves tendremos una sesión fundamental con Alejandro Cerezo Contreras donde exploraremos los GitHub Copilot Skillsets. Aprende cómo extender las capacidades de Copilot e integrar tus propias APIs y herramientas directamente en Copilot Chat, ¡simplificando tu flujo de trabajo con IA!\n\n¡Habrá ejemplos prácticos y verás cómo conectar sistemas externos usando lenguaje natural!\n\n¡Conéctate en directo este jueves!\n\n#GitHub #Copilot #GitHubCopilot #AI #DeveloperTools #VSCode #APIs #CopilotChat #Skillsets #GitHubCommunitySpain",
+      "url": "https://www.linkedin.com/posts/ghspain_github-copilot-githubcopilot-activity-7347780864497410048-7C2l?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
+      "post_type": "regular",
+      "author": {
+        "first_name": "GitHub",
+        "last_name": "Community España",
+        "headline": "348 followers",
+        "profile_url": "https://www.linkedin.com/company/ghspain/posts"
+      },
+      "stats": {
+        "total_reactions": 0,
+        "like": 0,
+        "support": 0,
+        "love": 0,
+        "insight": 0,
+        "celebrate": 0,
+        "funny": 0,
+        "comments": 0,
+        "reposts": 0
+      }
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7341773080580489217",
+      "share_urn": "7341773079456444416",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7341773080580489217",
+    "posted_at": {
+      "date": "2025-06-20 12:25:05",
+      "relative": "6 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1750415105958
+    },
+    "text": "Estoy por el OpenSouthCode en el stand the Sector Alarm España y Javier Garcia Martinez me ha liado para hacer el quiz.",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_estoy-por-el-opensouthcode-en-el-stand-the-activity-7341773080580489217-HpSx?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1770249600&v=beta&t=RBazk0dZC_VfK84eD1-SQIrEVT4bLnvTQM1uoHeY1Bc"
+    },
+    "stats": {
+      "total_reactions": 14,
+      "like": 8,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 5,
+      "funny": 1,
+      "comments": 1,
+      "reposts": 1
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/v2/D4D22AQGCeJOue4V3xg/feedshare-shrink_2048_1536/B4DZeM3sD7GsAo-/0/1750415104353?e=1770249600&v=beta&t=yVlITnO0I2aeOd5Juvub-VdIIdFb78bFamDL428cxtc",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQGCeJOue4V3xg/feedshare-shrink_2048_1536/B4DZeM3sD7GsAo-/0/1750415104353?e=1770249600&v=beta&t=yVlITnO0I2aeOd5Juvub-VdIIdFb78bFamDL428cxtc",
+          "width": 2048,
+          "height": 1536
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7338266265586696192",
+      "share_urn": "7338266264622006273",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7338266265586696192",
+    "posted_at": {
+      "date": "2025-06-10 20:10:16",
+      "relative": "7 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1749579016110
+    },
+    "text": "Usar herramientas open-source como LangChain nos da una velocidad increíble, pero en entornos empresariales, la seguridad siempre es una pregunta clave. ¿Cómo te aseguras de que las integraciones de terceros no introducen riesgos?\n\nPara responder a esa pregunta, Microsoft y LangChain han anunciado una colaboración muy importante. El equipo de seguridad de Microsoft revisó el framework, identificó varias áreas de mejora y ahora está trabajando codo con codo con LangChain para reforzar todo el ecosistema en Azure.\n\nEl objetivo es claro: que puedas innovar con tus herramientas open-source favoritas, pero con una capa extra de confianza y seguridad respaldada por dos gigantes. En este artículo se cuenta toda la historia y cómo puedes empezar a usar los nuevos paquetes seguros.\n\n#AI #OpenSource #SeguridadInformatica #LangChain #Microsoft #Azure #Python #Developer\n\nhttps://lnkd.in/dq_SAF-8",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_microsoft-and-langchain-leading-the-way-activity-7338266265586696192-WWaS?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1770249600&v=beta&t=RBazk0dZC_VfK84eD1-SQIrEVT4bLnvTQM1uoHeY1Bc"
+    },
+    "stats": {
+      "total_reactions": 2,
+      "like": 2,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/sync/v2/D4D27AQERT5ilz1WTIg/articleshare-shrink_1280_800/B4DZdBJUDMHwAY-/0/1749144650316?e=1769454000&v=beta&t=rOPw75Z8SB5hZUqKaXL_8cgJUpFNT6IDt0nsF_Z2T6Q"
+    },
+    "article": {
+      "url": "https://devblogs.microsoft.com/blog/microsoft-and-langchain-leading-the-way-in-ai-security-for-open-source-on-azure?WT.mc_id=studentamb_472298",
+      "title": "Microsoft and LangChain: Leading the Way in AI Security for Open Source on Azure - Microsoft for Developers",
+      "subtitle": "devblogs.microsoft.com",
+      "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D4D27AQERT5ilz1WTIg/articleshare-shrink_1280_800/B4DZdBJUDMHwAY-/0/1749144650316?e=1769454000&v=beta&t=rOPw75Z8SB5hZUqKaXL_8cgJUpFNT6IDt0nsF_Z2T6Q"
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7336071494948548610",
+      "share_urn": null,
+      "ugcPost_urn": "7336062278716321792"
+    },
+    "full_urn": "urn:li:ugcPost:7336062278716321792",
+    "posted_at": {
+      "date": "2025-06-04 18:49:02",
+      "relative": "7 months ago • Edited • Visible to anyone on or off LinkedIn",
+      "timestamp": 1749055742013
+    },
+    "text": "Nuevo evento online en la comunidad!!\n\n🧠 Conoce los 2 nuevos agentes de GitHub Copilot: ¡en tu IDE y en GitHub! - 11 de Junio de 2025 de 18:00 a 19:00 \nhttps://lnkd.in/eQYJBXPM\n\nPodéis asistir a ver el nuevo GitHub Copilot Agent de la mano de Bruno Capuano, Principal Cloud Advocate en Microsoft\n\n¡Habrá demos prácticas, casos reales y mucha IA aplicada al desarrollo!. Se verá el modo agente de GitHub Copilot en local dentro del IDE y el nuevo Coding Agent de GitHub Cloud.\n\n¡No os lo perdáis!\n\n#github #copilot #githubcopiot #copilotagent #agentmode  #agent #ai",
+    "url": "https://www.linkedin.com/posts/ghspain_github-copilot-githubcopiot-ugcPost-7336062278716321792-LyB6?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
+    "post_type": "repost",
+    "author": {
+      "first_name": "GitHub",
+      "last_name": "Community España",
+      "headline": "348 followers",
+      "profile_url": "https://www.linkedin.com/company/ghspain/posts"
+    },
+    "stats": {
+      "total_reactions": 6,
+      "like": 3,
+      "support": 0,
+      "love": 1,
+      "insight": 0,
+      "celebrate": 2,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 4
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7335652179988340738",
+      "share_urn": "7335334164910477314",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7335334166265315328",
+    "posted_at": {
+      "date": "2025-06-03 15:02:49",
+      "relative": "7 months ago • Edited • Visible to anyone on or off LinkedIn",
+      "timestamp": 1748955769536
+    },
+    "text": "🫶 Dona a #GNUhealth GNU Solidario y transforma la salud pública & health 🌍 \nColabora con free science & medicina social en #OpenSouthCode25 👉 https://lnkd.in/dADZuGAz\n👕 T-shirt + dinner \"malaguita\" 🐟🍻  Gracias Cervezas Victoria & live music Picky Pressure 🎶 \n\n\nCanonical, Sector Alarm España, The Workshop, Freepik, Ortus Solutions, Corp, DeepComputing, SLIMBOOK, SPANRED SL",
+    "url": "https://www.linkedin.com/posts/opensouthcode_gnuhealth-opensouthcode25-activity-7335334166265315328-kkvB?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
+    "post_type": "repost",
+    "author": {
+      "first_name": "OpenSouthCode",
+      "headline": "1,302 followers",
+      "profile_url": "https://www.linkedin.com/company/opensouthcode/posts"
+    },
+    "stats": {
+      "total_reactions": 34,
+      "like": 20,
+      "support": 10,
+      "love": 3,
+      "insight": 0,
+      "celebrate": 1,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 16
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/v2/D4D22AQGr55guiSbYRg/feedshare-shrink_1280/B4DZcxXjYqGwAk-/0/1748879947697?e=1770249600&v=beta&t=cuRFe1CNJv0ISpfZP0w4Ox-5le0PRJV1yWnLrhjxiko",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQGr55guiSbYRg/feedshare-shrink_1280/B4DZcxXjYqGwAk-/0/1748879947697?e=1770249600&v=beta&t=cuRFe1CNJv0ISpfZP0w4Ox-5le0PRJV1yWnLrhjxiko",
+          "width": 600,
+          "height": 300
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7335636134686785537",
+      "share_urn": "7335636133927698433",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7335636134686785537",
+    "posted_at": {
+      "date": "2025-06-03 13:59:04",
+      "relative": "7 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1748951944038
+    },
+    "text": "¿Estás construyendo una startup? Microsoft te financia la infraestructura potente, la seguridad robusta y las herramientas de desarrollo e IA más recientes para que avances con confianza.\n\nPuedes obtener créditos de Azure para impulsar tu proyecto: hasta $1000 si estás empezando y hasta $150,000 si ya tienes tu empresa.\n\nhttps://lnkd.in/dRE-Y3Rq",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_microsoft-for-startups-foundershub-activity-7335636134686785537-FL2Q?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1770249600&v=beta&t=RBazk0dZC_VfK84eD1-SQIrEVT4bLnvTQM1uoHeY1Bc"
+    },
+    "stats": {
+      "total_reactions": 3,
+      "like": 2,
+      "support": 0,
+      "love": 1,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "article": {
+      "url": "https://foundershub.startups.microsoft.com/signup?WT.mc_id=studentamb_472298",
+      "title": "Microsoft for Startups FoundersHub",
+      "subtitle": "foundershub.startups.microsoft.com"
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7335406718144671746",
+      "share_urn": "7335406717217746944",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7335406718144671746",
+    "posted_at": {
+      "date": "2025-06-02 22:47:26",
+      "relative": "7 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1748897246872
+    },
+    "text": "Es sábado por la mañana y salta una alerta crítica en producción. Pero en lugar de arruinarte el fin de semana, un agente de IA la detecta, analiza los logs, identifica la causa, despliega un hotfix y crea un issue en GitHub con el informe completo. Todo por su cuenta.\n\nEsto no es ciencia ficción, es solo uno de los ejemplos de \"Agentic DevOps\" que se explican en este artículo. La IA ya no es solo un asistente, es un compañero de equipo autónomo. Este post muestra cómo esta idea se aplica a TODO el ciclo de vida: desde convertir un diseño de Figma en código hasta modernizar una app legacy en minutos.\n\nSi quieres ver con tus propios ojos cómo funciona esta nueva revolución, tienes que leerlo.\n\nhttps://lnkd.in/d3SCzwAu",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_agentic-devops-in-action-reimagining-every-activity-7335406718144671746-CsqX?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1770249600&v=beta&t=RBazk0dZC_VfK84eD1-SQIrEVT4bLnvTQM1uoHeY1Bc"
+    },
+    "stats": {
+      "total_reactions": 2,
+      "like": 2,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/sync/v2/D5627AQE1YYHmi6DpkQ/articleshare-shrink_1280_800/B56Zcde2NzGsAQ-/0/1748546316251?e=1769454000&v=beta&t=8yO0uwNUMtbG6QsfQe_rtHJ-OTStg1ckGweW6DvVY08"
+    },
+    "article": {
+      "url": "https://devblogs.microsoft.com/blog/reimagining-every-phase-of-the-developer-lifecycle?WT.mc_id=studentamb_472298",
+      "title": "Agentic DevOps in action: Reimagining every phase of the developer lifecycle",
+      "subtitle": "devblogs.microsoft.com",
+      "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D5627AQE1YYHmi6DpkQ/articleshare-shrink_1280_800/B56Zcde2NzGsAQ-/0/1748546316251?e=1769454000&v=beta&t=8yO0uwNUMtbG6QsfQe_rtHJ-OTStg1ckGweW6DvVY08"
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7334851708222693376",
+      "share_urn": "7334851707312455680",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7334851708222693376",
+    "posted_at": {
+      "date": "2025-06-01 10:02:02",
+      "relative": "7 months ago • Edited • Visible to anyone on or off LinkedIn",
+      "timestamp": 1748764922195
+    },
+    "text": "Con tantos anuncios sobre Copilot, a veces es difícil saber por dónde empezar.\n\nMicrosoft ha lanzado el \"Centro de aprendizaje de Copilot\", un portal que centraliza TODO lo que necesitas para dominar esta tecnología. No importa tu nivel: te ayuda a entender los conceptos básicos, a implementarlo y te da las herramientas para extenderlo y crear tus propios agentes de IA o MCPs.\n\nEs un punto de partida idóneo para no perderte nada y sacarle el máximo partido.\n\nÉchale un vistazo y guarda el enlace: https://lnkd.in/dTUJg7NS\n\n#MicrosoftCopilot #AI #InteligenciaArtificial #Formacion #MicrosoftLearn #Developer",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_learn-how-to-use-microsoft-365-copilot-activity-7334851708222693376-U2g2?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
+    "post_type": "regular",
     "author": {
       "first_name": "Alejandro",
       "last_name": "Cerezo Contreras",
@@ -1187,51 +1852,527 @@
       "comments": 0,
       "reposts": 0
     },
-    "reshared_post": {
-      "urn": {
-        "activity_urn": "7413917607571017728",
-        "share_urn": "7413917606266679297",
-        "ugcPost_urn": null
-      },
-      "full_urn": "urn:li:activity:7413917607571017728",
-      "posted_at": {
-        "date": "2026-01-05 13:21:41",
-        "relative": "1 week ago • Visible to anyone on or off LinkedIn",
-        "timestamp": 1767615701573
-      },
-      "text": "¿Te perdiste mi post de ayer? No te preocupes, LinkedIn Cards ya ha hecho el trabajo por mí. 🚀\n\nComo prometí ayer, mi actividad de LinkedIn ya es visible directamente en mi perfil de GitHub. Gracias a LinkedIn Cards, mi README ha pasado de ser un texto estático a un escaparate dinámico que se actualiza solo cada día.\n\n¿Qué es exactamente LinkedIn Cards? Es una herramienta Open Source diseñada para desarrolladores que quieren potenciar su marca personal. Permite conectar tus mejores publicaciones de LinkedIn a tu GitHub mediante tarjetas visuales automáticas, gestionadas íntegramente por GitHub Actions.\n\nPuedes configurar tus LinkedIn Cards aquí: 🔗\nhttps://lnkd.in/ek7q9sHg\n\nAsí que si te perdiste la oportunidad de aparecer en mi perfil de GitHub ayer. ¡Aún estás a tiempo! ⏳ Como las tarjetas se actualizan automáticamente cada día, si reaccionas o comentas en esta publicación, tu interacción aparecerá en mi README mañana mismo.",
-      "url": "https://www.linkedin.com/posts/alexcerezocontreras_te-perdiste-mi-post-de-ayer-no-te-preocupes-activity-7413917607571017728-UTf6?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDsOLIBleMMU19Ynwm_l0TMZPXbPSsSCPU",
-      "post_type": "regular",
-      "author": {
-        "first_name": "Alejandro",
-        "last_name": "Cerezo Contreras",
-        "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
-        "username": "alexcerezocontreras",
-        "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
-        "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1770249600&v=beta&t=RBazk0dZC_VfK84eD1-SQIrEVT4bLnvTQM1uoHeY1Bc"
-      },
-      "stats": {
-        "total_reactions": 10,
-        "like": 7,
-        "support": 0,
-        "love": 1,
-        "insight": 2,
-        "celebrate": 0,
-        "funny": 0,
-        "comments": 0,
-        "reposts": 1
-      },
-      "media": {
-        "type": "image",
-        "url": "https://media.licdn.com/dms/image/v2/D4E22AQHqhpr69YPR-Q/feedshare-shrink_2048_1536/B4EZuOGxpQKkA0-/0/1767615700017?e=1770249600&v=beta&t=Y7JzgPprcoZBsqKAKrGUzodB54iayIko46QsoyS2Etg",
-        "images": [
-          {
-            "url": "https://media.licdn.com/dms/image/v2/D4E22AQHqhpr69YPR-Q/feedshare-shrink_2048_1536/B4EZuOGxpQKkA0-/0/1767615700017?e=1770249600&v=beta&t=Y7JzgPprcoZBsqKAKrGUzodB54iayIko46QsoyS2Etg",
-            "width": 1049,
-            "height": 591
-          }
-        ]
-      }
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/sync/v2/D4D27AQGq86npbhTzmg/articleshare-shrink_1280_800/articleshare-shrink_1280_800/0/1741069403238?e=1769454000&v=beta&t=OUUW8PjTbrb-Vmudj8LhEZbpG0sDPNBFIr7r_3xm1AA"
+    },
+    "article": {
+      "url": "https://learn.microsoft.com/copilot/?WT.mc_id=studentamb_472298",
+      "title": "Learn how to use Microsoft 365 Copilot",
+      "subtitle": "learn.microsoft.com",
+      "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D4D27AQGq86npbhTzmg/articleshare-shrink_1280_800/articleshare-shrink_1280_800/0/1741069403238?e=1769454000&v=beta&t=OUUW8PjTbrb-Vmudj8LhEZbpG0sDPNBFIr7r_3xm1AA"
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7334610380637237248",
+      "share_urn": "7334610379743936512",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7334610380637237248",
+    "posted_at": {
+      "date": "2025-05-31 18:03:05",
+      "relative": "7 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1748707385215
+    },
+    "text": "Los AI Agents en VS Code han recibido una de sus mayores actualizaciones. Con esta nueva integración de MCP, ahora pueden conectarse de forma segura a un ecosistema de herramientas externas como GitHub, Playwright y más.\n\nEsto cambia por completo las reglas del juego para los flujos de trabajo asistidos por IA. Si quieres saber cómo funciona descubre todos los detalles en el anuncio oficial: \n\nhttps://lnkd.in/d46rUwiv\n\n#VSCode #AI #DeveloperTools #MCP #FutureOfCode #Innovation",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_beyond-the-tools-adding-mcp-in-vs-code-activity-7334610380637237248-4-ZB?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1770249600&v=beta&t=RBazk0dZC_VfK84eD1-SQIrEVT4bLnvTQM1uoHeY1Bc"
+    },
+    "stats": {
+      "total_reactions": 0,
+      "like": 0,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/sync/v2/D4E27AQHjXRSssgfAvA/articleshare-shrink_1280_800/B4EZbTID2rGQAU-/0/1747298828122?e=1769454000&v=beta&t=1XxgLnq0Kj2SJIx29XWM7qJG9qrJPx1gc6GJNSvoI9Q"
+    },
+    "article": {
+      "url": "https://code.visualstudio.com/blogs/2025/05/12/agent-mode-meets-mcp/?WT.mc_id=studentamb_472298",
+      "title": "Beyond the tools, adding MCP in VS Code",
+      "subtitle": "code.visualstudio.com",
+      "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D4E27AQHjXRSssgfAvA/articleshare-shrink_1280_800/B4EZbTID2rGQAU-/0/1747298828122?e=1769454000&v=beta&t=1XxgLnq0Kj2SJIx29XWM7qJG9qrJPx1gc6GJNSvoI9Q"
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7331012769434984449",
+      "share_urn": null,
+      "ugcPost_urn": "7331012768214528000"
+    },
+    "full_urn": "urn:li:ugcPost:7331012768214528000",
+    "posted_at": {
+      "date": "2025-05-21 19:47:27",
+      "relative": "7 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1747849647864
+    },
+    "text": "¡Qué gran tarde la de ayer en el Google I/O Watch Party! 🚀\n\nTuve el placer de visitar por primera vez las instalaciones del Google Safety Engineering Center (GSEC), donde el equipo de GDG on Campus Málaga montó una Watch Party de primera. \n\nMe quedé impresionado con los anuncios del #GoogleIO y todas las novedades que se vienen. Pero sobretodo una cosa quedó bien clara, vamos a tener IA hasta en la sopa. 😂 \n\nPero, seamos sinceros, no todo iba a ser IA y anuncios futuristas... Después de tanta info, tocó recargar pilas y qué mejor manera que con networking del bueno y unas pizzas. 🍕🤝\n\nUn ambiente increíble para conocer gente nueva y sentir la buenas vibes de la comunidad tech malagueña. ¡Así da gusto!\n\nMil gracias a GDG on Campus Málaga  por la organización y por hacer posible esta experiencia en un sitio tan top como el GSEC. Un lujazo haber participado.\n\n#GoogleIO #GoogleIOWatchParty #GSECMalaga #OnCampusMalaga #Google #Networking #Tecnologia #Innovacion #ComunidadTech #Malaga",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_googleio-googleio-googleiowatchparty-activity-7331012769434984449-Sb2l?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1770249600&v=beta&t=RBazk0dZC_VfK84eD1-SQIrEVT4bLnvTQM1uoHeY1Bc"
+    },
+    "stats": {
+      "total_reactions": 7,
+      "like": 5,
+      "support": 1,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 1,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "images",
+      "url": "https://media.licdn.com/dms/image/v2/D4D22AQFpyq4cf8u-wA/feedshare-shrink_1280/B4DZbz9QZMIAAs-/0/1747849646081?e=1770249600&v=beta&t=Kt0Fy0mAoN5RqXRBmDFBJCivgE6VLvwzJVZMHOKvQzs",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQFpyq4cf8u-wA/feedshare-shrink_1280/B4DZbz9QZMIAAs-/0/1747849646081?e=1770249600&v=beta&t=Kt0Fy0mAoN5RqXRBmDFBJCivgE6VLvwzJVZMHOKvQzs",
+          "width": 1280,
+          "height": 1706
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQFXUjLKrFbPVA/feedshare-shrink_1280/B4DZbz9QaNGwAk-/0/1747849646092?e=1770249600&v=beta&t=eW95PqF_yIQXsLNTrTL47TI6zZr8iTBiRV_ZSU_zZH0",
+          "width": 1280,
+          "height": 1706
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQFwXPRrNwH9Hw/feedshare-shrink_1280/B4DZbz9QYhHQAw-/0/1747849645722?e=1770249600&v=beta&t=xNp8uzbpaHuWNADg9l31xE3K_o4Q5VS2HbNM1Ds69KI",
+          "width": 1280,
+          "height": 1706
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQHkvdGjP4DWsQ/feedshare-shrink_1280/B4DZbz9QX2HQAk-/0/1747849645819?e=1770249600&v=beta&t=NSHiG-tqB26Vs_GbozqvqDONQtc1bMcYSeY4m3p4W_0",
+          "width": 1280,
+          "height": 1706
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7327705805862912002",
+      "share_urn": null,
+      "ugcPost_urn": "7327705804365565954"
+    },
+    "full_urn": "urn:li:ugcPost:7327705804365565954",
+    "posted_at": {
+      "date": "2025-05-12 16:46:46",
+      "relative": "8 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1747061206308
+    },
+    "text": "Un viernes inolvidable en el #SalmorejoTech 🍅: ¡la energía cordobesa inspira!\n\nEl viernes pasado asistí, como buen cordobés, al Salmorejo Tech junto a Pablo Núñez Navarro y Juan Antonio Carvajal. Fue una jornada repleta de charlas brillantes de las que aprendí muchísimo.\n\nLo que más me sorprendió fue ver lo movilizados que están los estudiantes cordobeses; se mueven incluso más que los malagueños, a pesar de no contar con un entorno tecnológico tan rico como el de Málaga por desgracia. Los \"malagueños\" deberíamos aprovechar mucho más las oportunidades que tenemos a mano.\n\nPara redondear el día, la suerte estuvo de mi lado y en el sorteo me llevé unos magníficos cascos inalámbricos gracias a VANT. 🎧\n\nMil gracias a la organización, a los ponentes y a toda la comunidad que hace posible este evento. Sin duda, ¡repetiré! Nos vemos en la próxima edición. 🙌\n#TechCommunity #Córdoba #Málaga #Networking #SalmorejoTech",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_salmorejotech-techcommunity-caejrdoba-activity-7327705805862912002-RxiK?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1770249600&v=beta&t=RBazk0dZC_VfK84eD1-SQIrEVT4bLnvTQM1uoHeY1Bc"
+    },
+    "stats": {
+      "total_reactions": 14,
+      "like": 10,
+      "support": 0,
+      "love": 2,
+      "insight": 0,
+      "celebrate": 2,
+      "funny": 0,
+      "comments": 1,
+      "reposts": 1
+    },
+    "media": {
+      "type": "images",
+      "url": "https://media.licdn.com/dms/image/v2/D4D22AQHMpJxGcov64Q/feedshare-shrink_2048_1536/B4DZbE9ivGGUAo-/0/1747061190625?e=1770249600&v=beta&t=uVQbdBp1Po26D6O-0yoD07UkY3hxdqCHvf73DtYFgKY",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQHMpJxGcov64Q/feedshare-shrink_2048_1536/B4DZbE9ivGGUAo-/0/1747061190625?e=1770249600&v=beta&t=uVQbdBp1Po26D6O-0yoD07UkY3hxdqCHvf73DtYFgKY",
+          "width": 1824,
+          "height": 1368
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQEoHVDUtWTfmA/feedshare-shrink_1280/B4DZbE9izoG8Ak-/0/1747061204856?e=1770249600&v=beta&t=Sd1in858cJOjmxkYdJ9JjkvOoMjJAlvPKTz4Atlju5s",
+          "width": 1280,
+          "height": 1706
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQHkeXRixUSwIw/feedshare-shrink_1280/B4DZbE9iv7GwAo-/0/1747061191333?e=1770249600&v=beta&t=-FBRKn0Nfqv9rKDuEOeaNFK2K0euEYp0BZA74yXF9fQ",
+          "width": 1280,
+          "height": 1706
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQEudBV5f2JSuQ/feedshare-shrink_1280/B4DZbE9ivYHsAk-/0/1747061190970?e=1770249600&v=beta&t=IKSlqEcpUyELChViwolX5wxZLRATYsHkuSEJFYFnZg8",
+          "width": 1280,
+          "height": 2275
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7326516479028256769",
+      "share_urn": "7326515743712296961",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7326515745167687681",
+    "posted_at": {
+      "date": "2025-05-09 10:00:48",
+      "relative": "8 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1746777648694
+    },
+    "text": "La expedición malagueña en el Salmorejo (aunque hay 2/3 de ADN cordobés 😅)\nJuan Antonio Carvajal Alejandro Cerezo Contreras",
+    "url": "https://www.linkedin.com/posts/pablonuneznavarro_la-expedici%C3%B3n-malague%C3%B1a-en-el-salmorejo-activity-7326515745167687681-pO9g?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
+    "post_type": "repost",
+    "author": {
+      "first_name": "Pablo",
+      "last_name": "Núñez Navarro",
+      "headline": "Software engineer at GitHub",
+      "username": "pablonuneznavarro",
+      "profile_url": "https://www.linkedin.com/in/pablonuneznavarro?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAUGgicBALrZpRO3GVPTUUv6kOTtRu3Mdxk",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/C4E03AQHrMxhCtGqEgQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1643307026148?e=1770249600&v=beta&t=Rt64goivL8teHIkQGw0kBuf1CtFEy6FkSq7s9YmXRNQ"
+    },
+    "stats": {
+      "total_reactions": 20,
+      "like": 14,
+      "support": 0,
+      "love": 1,
+      "insight": 0,
+      "celebrate": 5,
+      "funny": 0,
+      "comments": 1,
+      "reposts": 1
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/v2/D4D22AQFGPvB3DEc9bQ/feedshare-shrink_2048_1536/B4DZa0DOdDHsAo-/0/1746777472461?e=1770249600&v=beta&t=mJphT-0uI1jmerDraKjuBJRd_lT-DiOcwpygJDss398",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQFGPvB3DEc9bQ/feedshare-shrink_2048_1536/B4DZa0DOdDHsAo-/0/1746777472461?e=1770249600&v=beta&t=mJphT-0uI1jmerDraKjuBJRd_lT-DiOcwpygJDss398",
+          "width": 2048,
+          "height": 1536
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7297695618905378816",
+      "share_urn": "7297695618196504579",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7297695618905378816",
+    "posted_at": {
+      "date": "2025-02-18 20:17:00",
+      "relative": "11 months ago • Edited • Visible to anyone on or off LinkedIn",
+      "timestamp": 1739906220175
+    },
+    "text": "Mi nuevo reto profesional en Outlier 🚀\n\nHoy quiero compartir una gran noticia: he sido \"ascendido\" a Squad Manager en Outlier. 🎉\n\nHace unos meses, comencé esta etapa con ganas de aprender, aportar y crecer dentro del equipo. Ahora, con este nuevo rol, asumo el desafío de liderar un equipo, coordinar estrategias y asegurar que sigamos entregando el mejor trabajo posible.\n\nAgradezco a Outlier por la confianza y a mis compañeros por el apoyo en este camino. Estoy listo para seguir mejorando, aprendiendo de cada reto y ayudando a que el equipo alcance nuevos niveles.\n\n¡Vamos por más! 💪",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_mi-nuevo-reto-profesional-en-outlier-activity-7297695618905378816-nyhB?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1770249600&v=beta&t=RBazk0dZC_VfK84eD1-SQIrEVT4bLnvTQM1uoHeY1Bc"
+    },
+    "stats": {
+      "total_reactions": 1,
+      "like": 0,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 1,
+      "funny": 0,
+      "comments": 1,
+      "reposts": 0
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7271300176789561344",
+      "share_urn": "7270097245562093568",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7270097246535270401",
+    "posted_at": {
+      "date": "2024-12-08 00:10:56",
+      "relative": "1 year ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1733613056371
+    },
+    "text": "If you're a developer in Europe aiming for financial freedom, Switzerland🇨🇭 should be on your radar.\n\nWhy?\nIt's the best location to grow your capital as an early-career developer in Europe.\n\nEspecially if big tech isn’t in the cards for you.\n\nSwitzerland's central location also offers great opportunities for geo-arbitrage—whether it’s for life, investments, or setting up an international European lifestyle.\n\nIf you're adaptable, you can use these regional differences to your advantage, optimizing both lifestyle and financial growth at different stages of your career.\n\nStart in Switzerland, and you could save $100k+ in just a few years.\nWith that base—especially if invested wisely—you can choose more flexible jobs down the line.\n\nBenefits of starting your career in Switzerland:\n- Excellent quality of life: infrastructure, stability, services.\n- Great networking opportunities.\n- Central connectivity, making it easy to explore Europe.\n- Career options ranging from smaller firms to big tech—allowing savings from $50k to $1M+, depending on your path.\n\nSwitzerland isn’t the only route to a successful European career.\n\nBut it's one of the best and most straightforward—especially early in your journey.\n\nWhat are your thoughts on Switzerland? 🏔️",
+    "url": "https://www.linkedin.com/posts/nicola-amadio_if-youre-a-developer-in-europe-aiming-for-activity-7270097246535270401-bGiO?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
+    "post_type": "repost",
+    "author": {
+      "first_name": "Nicola",
+      "last_name": "Amadio",
+      "headline": "Top-paying tech careers in Europe | Remote life, taxes & relocation",
+      "username": "nicola-amadio",
+      "profile_url": "https://www.linkedin.com/in/nicola-amadio?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAA1rueUBTsC377ZCL3mWnnHX21G3lpYUkH4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEtNIQsfiT7sg/profile-displayphoto-crop_800_800/B4EZtApVxZHUAI-/0/1766316138051?e=1770249600&v=beta&t=B7S21d107DgrJWmASsDmWjzJKkkddC_DJQoXbNjDBDA"
+    },
+    "stats": {
+      "total_reactions": 187,
+      "like": 148,
+      "support": 3,
+      "love": 18,
+      "insight": 14,
+      "celebrate": 3,
+      "funny": 1,
+      "comments": 61,
+      "reposts": 2
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/v2/D4E10AQFNEPKhs9favg/image-shrink_1280/image-shrink_1280/0/1733326231000?e=1769454000&v=beta&t=C7oqz66CS1MwNGCE43PM9MNhuA3CvH0O7dPdu67faVo",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E10AQFNEPKhs9favg/image-shrink_1280/image-shrink_1280/0/1733326231000?e=1769454000&v=beta&t=C7oqz66CS1MwNGCE43PM9MNhuA3CvH0O7dPdu67faVo",
+          "width": 1280,
+          "height": 1706
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7267191790049402880",
+      "share_urn": "7267191788824637440",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7267191790049402880",
+    "posted_at": {
+      "date": "2024-11-26 16:05:40",
+      "relative": "1 year ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1732633540642
+    },
+    "text": "🚀 ¡Nueva certificación sobre Data Science! 📊 Python y R en acción \n\nEstoy muy contento de compartir que he obtenido una nueva certificación en Ciencia de Datos 🎓. Durante el curso, he trabajado con herramientas como R, Python y Matplotlib, profundizando en los conceptos y metodologías clave para el análisis de datos.\n\nHe aprendido a limpiar, refinar y visualizar datos usando IBM Watson Studio, lo que me ha permitido adquirir nuevas habilidades que son esenciales para afrontar los retos del mundo de los datos 📈. Además, he obtenido una visión más clara de las habilidades necesarias para tener éxito en este campo tan emocionante 🌟.\n\nPara mí, es importante demostrar lo que sabemos no solo a través de proyectos, sino también con certificaciones que validen nuestro esfuerzo y compromiso con el aprendizaje continuo 📚.\n\n#DataScience #R #Python #Certificación #IBM #AprendizajeContinuo #CrecimientoProfesional #Datos",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_datascience-r-python-activity-7267191790049402880-pJHy?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1770249600&v=beta&t=RBazk0dZC_VfK84eD1-SQIrEVT4bLnvTQM1uoHeY1Bc"
+    },
+    "stats": {
+      "total_reactions": 2,
+      "like": 1,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 1,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/v2/D4D22AQGnuuQgtsZXRA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1732633539738?e=1770249600&v=beta&t=AVpIlaMxs-1lRhWIKTBvEotkM8-FIyjN1Ro-LFk_6Ko",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQGnuuQgtsZXRA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1732633539738?e=1770249600&v=beta&t=AVpIlaMxs-1lRhWIKTBvEotkM8-FIyjN1Ro-LFk_6Ko",
+          "width": 1650,
+          "height": 1275
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7266426322992705536",
+      "share_urn": null,
+      "ugcPost_urn": "7266411018539438080"
+    },
+    "full_urn": "urn:li:ugcPost:7266411018539438080",
+    "posted_at": {
+      "date": "2024-11-24 13:23:59",
+      "relative": "1 year ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1732451039074
+    },
+    "text": "Tired and very happy after dotnetMalaga 2024 yesterday. It was a real success and I had a very good time!\n\nAn event like that couldn't be possible without the tireless effort from volunteers, the passion from speakers, the support from sponsors and the energy from the attendance. Thank you all! 🤗 \n\nVerisk Specialty Business Solutions Verisk \nSector Alarm España \nProdware \nPlain Concepts \nLemoncoders \nMetadev",
+    "url": "https://www.linkedin.com/posts/javier-garcia-magna_tired-and-very-happy-after-dotnetmalaga-2024-ugcPost-7266411018539438080-WYaf?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
+    "post_type": "repost",
+    "author": {
+      "first_name": "Javier",
+      "last_name": "García Magna",
+      "headline": "Director, Center of Excellence - Verisk Málaga",
+      "username": "javier-garcia-magna",
+      "profile_url": "https://www.linkedin.com/in/javier-garcia-magna?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAACfEDgBzx1Sh-nAuuFk1GbWdjg4z5qMTao",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/C4D03AQF2RjctGesncQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1643385000919?e=1770249600&v=beta&t=9qqF7D1is5E38yHphqKzAUATwCxHxSed_WQj1ljyADk"
+    },
+    "stats": {
+      "total_reactions": 61,
+      "like": 41,
+      "support": 1,
+      "love": 4,
+      "insight": 0,
+      "celebrate": 15,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 3
+    },
+    "media": {
+      "type": "video",
+      "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQE596E0QjjevA/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1732447398589?e=1769454000&v=beta&t=9BnyPTnvM4QrpqgFub6m6tXWQRHayH5ZbH9raBjZFv0",
+      "thumbnail": "https://media.licdn.com/dms/image/v2/D4E05AQE596E0QjjevA/videocover-high/videocover-high/0/1732447390571?e=1769454000&v=beta&t=9jOnoiJCrKIEpsIVVx2eQnj3f4rcgtXBUEmRvQQUImo"
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7266202852954427392",
+      "share_urn": null,
+      "ugcPost_urn": "7266202851503132672"
+    },
+    "full_urn": "urn:li:ugcPost:7266202851503132672",
+    "posted_at": {
+      "date": "2024-11-23 22:35:59",
+      "relative": "1 year ago • Edited • Visible to anyone on or off LinkedIn",
+      "timestamp": 1732397759665
+    },
+    "text": "Hoy he tenido la oportunidad de asistir a la novena edición de DotNet Málaga🎉, ¡y además he participado como voluntario! 🙌  \n\nHa sido una experiencia increíble y llena de aprendizaje. Durante el evento, tuvimos el placer de disfrutar de charlas interesantísimas de grandes ponentes 👩‍💻👨‍💻, además de comida y bebida que hicieron que la jornada fuera aún más agradable 🥪☕.  \n\nTambién he tenido el honor de conocer a personas maravillosas, la gran mayoría también estaban como voluntarios 🤝. ¡Gracias por vuestra energía y buena vibra, me habéis hecho sentir uno más! 🌟\n\nComo ya es costumbre María del Mar Madrid Delgado, Germán Torres Tendero, Martin Kaliman y Javier Torralbo Cortés estuvieron también dando guerra y pidiendo merchandising😂🎁.\n\nAgradezco enormemente a dotnetMalaga y sus patrocinadores por hacer posible este evento posible y por brindar un espacio tan enriquecedor para la comunidad. ¡Nos vemos en la próxima edición! 🥳  \n\n#DotNetMálaga #Voluntariado #Networking #Verisk #SectorAlarm",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_dotnetmaerlaga-voluntariado-networking-activity-7266202852954427392-BoeK?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1770249600&v=beta&t=RBazk0dZC_VfK84eD1-SQIrEVT4bLnvTQM1uoHeY1Bc"
+    },
+    "stats": {
+      "total_reactions": 22,
+      "like": 15,
+      "support": 0,
+      "love": 5,
+      "insight": 0,
+      "celebrate": 2,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 5
+    },
+    "media": {
+      "type": "images",
+      "url": "https://media.licdn.com/dms/image/v2/D4D22AQHvRQUVFnCIvA/feedshare-shrink_1280/feedshare-shrink_1280/0/1732397757444?e=1770249600&v=beta&t=ijyglXNAKSu0aNvFU8e0ZaHE1biZSsjos7ylRKovUbo",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQHvRQUVFnCIvA/feedshare-shrink_1280/feedshare-shrink_1280/0/1732397757444?e=1770249600&v=beta&t=ijyglXNAKSu0aNvFU8e0ZaHE1biZSsjos7ylRKovUbo",
+          "width": 1280,
+          "height": 1706
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQH_PEDHU5yCUQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1732397755269?e=1770249600&v=beta&t=l27GsCUuV6QTmYT8sHOH_4QhGCiYOn4lnn4uq_Qv028",
+          "width": 2040,
+          "height": 1536
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQE-3AFpyqZ55A/feedshare-shrink_1280/feedshare-shrink_1280/0/1732397757405?e=1770249600&v=beta&t=9iwe7xQDPTCqazc_BH3G6wJ0tMTezyhW8ZSCU_6MbGU",
+          "width": 1280,
+          "height": 1706
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQHh_XPmyrzykw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1732397757377?e=1770249600&v=beta&t=t4pWV09XmqcJxtdymvnreo9IRRCJWwVFYneSe6dd2Tg",
+          "width": 2048,
+          "height": 1536
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7265833019658174464",
+      "share_urn": null,
+      "ugcPost_urn": "7265833018274037761"
+    },
+    "full_urn": "urn:li:ugcPost:7265833018274037761",
+    "posted_at": {
+      "date": "2024-11-22 22:06:24",
+      "relative": "1 year ago • Edited • Visible to anyone on or off LinkedIn",
+      "timestamp": 1732309584536
+    },
+    "text": "Hoy he tenido el honor de asistir a la segunda edición de la Flutter DevParty🥳 organizada por Flutter Málaga.\n\nMaría del Mar Madrid Delgado, Germán Torres Tendero, Javier Torralbo Cortés y un servidor escuchamos las charlas en las que se hablaba de testing✅ de accesibilidad🦮 y de Flutter en IoT⌚️.\n\nAl final, hubo un workshop sobre como hacer una pequeña app📲 responsive con Flutter. Fue a modo de \"hackathon\"💻 express y los ganadores obtuvimos un increíble tacita☕️ de Milú.\n\nPor último, nos invitaron a una pequeña cena🍔 e hicimos un poco de networking🛜. Gracias a Flutter Málaga por todo, estoy deseando asistir al siguiente.😁🫶🏻\n\nhttps://lnkd.in/d77jZgK7\n\n#Flutter #Testing #GoogleIDX #Responsive #Workshop",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_flutter-testing-googleidx-activity-7265833019658174464-kBxO?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGLXW_oBmL40e0Yr8nStfKZeMgUxnf0LDEY",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1770249600&v=beta&t=RBazk0dZC_VfK84eD1-SQIrEVT4bLnvTQM1uoHeY1Bc"
+    },
+    "stats": {
+      "total_reactions": 11,
+      "like": 9,
+      "support": 0,
+      "love": 2,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 4,
+      "reposts": 2
+    },
+    "media": {
+      "type": "images",
+      "url": "https://media.licdn.com/dms/image/v2/D4D22AQG25lvWou0w7w/feedshare-shrink_1280/feedshare-shrink_1280/0/1732309582357?e=1770249600&v=beta&t=ipY-YQK9i8TzvF1w-KTojE8qUyU0cyTy2fpT2V8aNc0",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQG25lvWou0w7w/feedshare-shrink_1280/feedshare-shrink_1280/0/1732309582357?e=1770249600&v=beta&t=ipY-YQK9i8TzvF1w-KTojE8qUyU0cyTy2fpT2V8aNc0",
+          "width": 1280,
+          "height": 1706
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQENKJOmKZfD_w/feedshare-shrink_1280/feedshare-shrink_1280/0/1732309581744?e=1770249600&v=beta&t=AdXoYJJ2My0BYflf0WwUji4boAWqeflyIf62PDBa2jw",
+          "width": 1280,
+          "height": 2118
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQG3CGUutCerCw/feedshare-shrink_1280/feedshare-shrink_1280/0/1732309582387?e=1770249600&v=beta&t=5Z9-EESyH2XTtQy8vG8oQXViFYBz1MOhIJONSI-4rYg",
+          "width": 1280,
+          "height": 1706
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQEZ6g3P4T3aew/feedshare-shrink_1280/feedshare-shrink_1280/0/1732309582404?e=1770249600&v=beta&t=3R0wWwwxeofBX8Gx6yyMkBcWwUAPYRC7pmqS0cSFxb4",
+          "width": 1280,
+          "height": 1706
+        }
+      ]
     },
     "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
   }
