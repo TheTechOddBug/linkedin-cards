@@ -41,13 +41,6 @@
           flex-shrink: 0;
         }
 
-        .repost-icon {
-          width: 16px;
-          height: 16px;
-          margin-right: 6px;
-          flex-shrink: 0;
-        }
-
         .shared-content {
           margin: 10px var(--card-padding) 0 var(--card-padding);
           padding: 12px;
@@ -160,11 +153,7 @@
         </div>
 
         <div class="repost-indicator">
-          <svg class="repost-icon" viewBox="0 0 24 24" fill="#666" xmlns="http://www.w3.org/2000/svg">
-            <path d="M13.96 5H6c-1.1 0-2 .9-2 2v8c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V9.37c0-.8-.47-1.52-1.2-1.83l-4.84-2.04zM7 15l4.5-6 3.5 4.51 2.5-3.01L21 15H7zm10-8.5c0-.83-.67-1.5-1.5-1.5S14 5.67 14 6.5 14.67 8 15.5 8 17 7.33 17 6.5z"/>
-            <path d="M2 7h2v10H2z"/>
-          </svg>
-          <span>${name} shared this</span>
+          <span>${repost}</span>
         </div>
 
         <div class="shared-content">
