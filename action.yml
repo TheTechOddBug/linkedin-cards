@@ -20,6 +20,10 @@ inputs:
     description: 'Card language (en, es, fr, de)'
     required: false
     default: 'en'
+  include_reposts:
+    description: 'Include reposts (quote or simple) when generating cards'
+    required: false
+    default: 'false'
   comment_tag_name:
     description: 'Comment tag name for injecting cards into README'
     required: false
@@ -46,6 +50,7 @@ runs:
         LINKEDIN_USERNAME: ${{ inputs.linkedin_username }}
         MAX_CARDS_TO_GENERATE: ${{ inputs.max_cards_to_generate }}
         LANGUAGE: ${{ inputs.language }}
+        INCLUDE_REPOSTS: ${{ inputs.include_reposts }}
         COMMENT_TAG_NAME: ${{ inputs.comment_tag_name }}
       run: |
         node ${{ github.action_path }}/scripts/auto-generate.js

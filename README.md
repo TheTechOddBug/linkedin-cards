@@ -82,6 +82,7 @@ jobs:
           linkedin_username: ${{ vars.LINKEDIN_USERNAME }}
           max_cards_to_generate: 4
           language: en
+          include_reposts: 'true'
 ```
 
 ### 3. Configure Secrets and Variables
@@ -148,6 +149,7 @@ The included workflow runs automatically. You can also trigger it manually from 
 | `linkedin_username` | Your LinkedIn username | ✅ Yes | - |
 | `max_cards_to_generate` | Max number of cards | ❌ No | `4` |
 | `language` | Card language | ❌ No | `en` |
+| `include_reposts` | Include reposts (quote or simple) | ❌ No | `false` |
 | `comment_tag_name` | Comment tag for README injection | ❌ No | `LINKEDIN-CARDS` |
 
 ### Supported Languages
@@ -170,10 +172,17 @@ npm install
 Create a `.env` file:
 
 ```env
+# Secret - Keep this private!
 APIFY_API_TOKEN=your_apify_api_token_here
-LINKEDIN_USERNAME=your_linkedin_username
-MAX_CARDS_TO_GENERATE=4
-LANGUAGE=en
+
+# Variables - Can be public
+LINKEDIN_USERNAME=alexcerezocontreras
+MAX_CARDS_TO_GENERATE=25
+LANGUAGE=es  # Options: en, es, fr, de
+INCLUDE_REPOSTS=true # Set to 'true' to include reposts
+
+# Development/Testing
+USE_MOCK_DATA=true  # Set to 'true' to use mock data instead of calling the API (saves costs during development)
 ```
 
 Run the generator:
@@ -230,13 +239,7 @@ The action regenerates cards each time it runs, always showing your latest posts
 
 ### Card Templates
 
-Templates are located in `templates/`:
-- `linkedin-post-light.svg` - Light theme with images
-- `linkedin-post-dark.svg` - Dark theme with images
-- `linkedin-post-light-text.svg` - Light theme text-only
-- `linkedin-post-dark-text.svg` - Dark theme text-only
-
-Edit these files to customize the card appearance.
+Templates are located in `templates/`. Edit these files to customize the card appearance.
 
 ### Maximum Cards
 
