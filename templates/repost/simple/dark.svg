@@ -72,13 +72,13 @@
         }
 
         .shared-text {
-          font-size: 13px;
+          font-size: 15px;
           /* TEMA OSCURO: Shared text color */
           color: #e4e6eb;
           line-height: 18px;
-          max-height: calc(18px * 12);
+          max-height: calc(18px * 11);
           display: -webkit-box;
-          -webkit-line-clamp: 12;
+          -webkit-line-clamp: 11;
           -webkit-box-orient: vertical;
           overflow: hidden;
           text-overflow: ellipsis;
@@ -116,10 +116,13 @@
           overflow: hidden;
           text-overflow: ellipsis;
           max-width: 180px;
+
           font-weight: 600;
           font-size: 13px;
           /* TEMA OSCURO: Shared name color */
           color: #e4e6eb;
+          max-height: calc(var(--line-height) * 11);
+
         }
 
         .shared-bio {

@@ -71,12 +71,12 @@
         }
 
         .shared-text {
-          font-size: 13px;
+          font-size: 14px;
           color: #191919;
           line-height: 18px;
-          max-height: calc(18px * 12);
+          max-height: calc(18px * 11);
           display: -webkit-box;
-          -webkit-line-clamp: 12;
+          -webkit-line-clamp: 11;
           -webkit-box-orient: vertical;
           overflow: hidden;
           text-overflow: ellipsis;
