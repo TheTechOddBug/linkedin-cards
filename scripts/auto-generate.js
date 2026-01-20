@@ -33,6 +33,9 @@ dotenv.config();
         const useMockData = process.env.USE_MOCK_DATA === 'true';
         // Single flag to include any kind of reposts (quote or simple)
         const includeReposts = (process.env.INCLUDE_REPOSTS || 'false') === 'true';
+        
+        console.log(`INCLUDE_REPOSTS env var: "${process.env.INCLUDE_REPOSTS}"`);
+        console.log(`Include reposts: ${includeReposts}`);
 
         const items = await fetchLinkedInPosts(client, process.env.LINKEDIN_USERNAME, useMockData);
         const ownPosts = filterOwnPosts(items, process.env.LINKEDIN_USERNAME, includeReposts);
